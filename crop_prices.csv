@@ -1,0 +1,3969 @@
+Crop,Price,Date
+Sugarcane,44.4,01/2015
+Sugarcane,51.56,02/2015
+Sugarcane,51.36,03/2015
+Sugarcane,55.02,04/2015
+Sugarcane,47.06,05/2015
+Sugarcane,47.34,06/2015
+Sugarcane,47.11,07/2015
+Sugarcane,45.34,08/2015
+Sugarcane,36.9,09/2015
+Sugarcane,54.72,10/2015
+Sugarcane,54.05,11/2015
+Sugarcane,42.34,12/2015
+Sugarcane,47.82,01/2016
+Sugarcane,46.25,02/2016
+Sugarcane,46.45,03/2016
+Sugarcane,39.27,04/2016
+Sugarcane,46.82,05/2016
+Sugarcane,52.95,06/2016
+Sugarcane,62.76,07/2016
+Sugarcane,51.93,08/2016
+Sugarcane,50.57,09/2016
+Sugarcane,47.39,10/2016
+Sugarcane,46.96,11/2016
+Sugarcane,54.7,12/2016
+Sugarcane,51.42,01/2017
+Sugarcane,46.79,02/2017
+Sugarcane,44.86,03/2017
+Sugarcane,49.15,04/2017
+Sugarcane,47.29,05/2017
+Sugarcane,49.94,06/2017
+Sugarcane,48.82,07/2017
+Sugarcane,51.91,08/2017
+Sugarcane,43.64,09/2017
+Sugarcane,55.42,10/2017
+Sugarcane,63.85,11/2017
+Sugarcane,55.93,12/2017
+Sugarcane,51.06,01/2018
+Sugarcane,54.37,02/2018
+Sugarcane,44.92,03/2018
+Sugarcane,42.05,04/2018
+Sugarcane,53.83,05/2018
+Sugarcane,47.27,06/2018
+Sugarcane,43.23,07/2018
+Sugarcane,45.56,08/2018
+Sugarcane,44.31,09/2018
+Sugarcane,50.64,10/2018
+Sugarcane,52.87,11/2018
+Sugarcane,54.4,12/2018
+Sugarcane,54.43,01/2019
+Sugarcane,53.74,02/2019
+Sugarcane,48.93,03/2019
+Sugarcane,46.85,04/2019
+Sugarcane,42.42,05/2019
+Sugarcane,55.46,06/2019
+Sugarcane,49.07,07/2019
+Sugarcane,47.91,08/2019
+Sugarcane,55.86,09/2019
+Sugarcane,45.47,10/2019
+Sugarcane,54.14,11/2019
+Sugarcane,51.45,12/2019
+Sugarcane,44.77,01/2020
+Sugarcane,49.58,02/2020
+Sugarcane,54.83,03/2020
+Sugarcane,53.94,04/2020
+Sugarcane,57.44,05/2020
+Sugarcane,51.65,06/2020
+Sugarcane,66.82,07/2020
+Sugarcane,45.36,08/2020
+Sugarcane,47.97,09/2020
+Sugarcane,49.66,10/2020
+Sugarcane,42.87,11/2020
+Sugarcane,55.18,12/2020
+Sugarcane,54.48,01/2021
+Sugarcane,50.06,02/2021
+Sugarcane,47.29,03/2021
+Sugarcane,42.49,04/2021
+Sugarcane,46.02,05/2021
+Sugarcane,53.68,06/2021
+Sugarcane,48.9,07/2021
+Sugarcane,47.83,08/2021
+Sugarcane,52.47,09/2021
+Sugarcane,55.75,10/2021
+Sugarcane,51.25,11/2021
+Sugarcane,51.54,12/2021
+Sugarcane,56.82,01/2022
+Sugarcane,50.84,02/2022
+Sugarcane,48.42,03/2022
+Sugarcane,53.33,04/2022
+Sugarcane,48.68,05/2022
+Sugarcane,48.12,06/2022
+Sugarcane,56.33,07/2022
+Sugarcane,48.5,08/2022
+Sugarcane,36.69,09/2022
+Sugarcane,51.69,10/2022
+Sugarcane,47.99,11/2022
+Sugarcane,48.52,12/2022
+Sugarcane,52.23,01/2023
+Sugarcane,49.13,02/2023
+Sugarcane,51.04,03/2023
+Sugarcane,39.85,04/2023
+Sugarcane,45.25,05/2023
+Sugarcane,56.98,06/2023
+Sugarcane,49.87,07/2023
+Sugarcane,41.6,08/2023
+Sugarcane,44.6,09/2023
+Sugarcane,45.0,10/2023
+Sugarcane,50.47,11/2023
+Sugarcane,47.8,12/2023
+Sugarcane,46.67,01/2024
+Sugarcane,49.98,02/2024
+Sugarcane,52.35,03/2024
+Sugarcane,48.67,04/2024
+Sugarcane,47.09,05/2024
+Sugarcane,47.86,06/2024
+Sugarcane,51.66,07/2024
+Sugarcane,49.93,08/2024
+Sugarcane,53.8,09/2024
+Sugarcane,44.21,10/2024
+Sugarcane,46.09,11/2024
+Sugarcane,53.83,12/2024
+Sugarcane,45.95,01/2025
+Sugarcane,56.88,02/2025
+Sugarcane,56.99,03/2025
+Sugarcane,56.92,04/2025
+Sugarcane,45.56,05/2025
+Sugarcane,50.35,06/2025
+Sugarcane,47.5,07/2025
+Sugarcane,54.58,08/2025
+Banana,35.42,01/2015
+Banana,32.4,02/2015
+Banana,27.17,03/2015
+Banana,35.26,04/2015
+Banana,29.61,05/2015
+Banana,37.29,06/2015
+Banana,30.32,07/2015
+Banana,42.67,08/2015
+Banana,31.01,09/2015
+Banana,33.31,10/2015
+Banana,38.99,11/2015
+Banana,28.77,12/2015
+Banana,36.06,01/2016
+Banana,41.46,02/2016
+Banana,26.88,03/2016
+Banana,35.84,04/2016
+Banana,36.22,05/2016
+Banana,38.83,06/2016
+Banana,28.74,07/2016
+Banana,28.32,08/2016
+Banana,37.53,09/2016
+Banana,36.41,10/2016
+Banana,36.17,11/2016
+Banana,36.65,12/2016
+Banana,31.52,01/2017
+Banana,36.08,02/2017
+Banana,36.39,03/2017
+Banana,31.35,04/2017
+Banana,44.25,05/2017
+Banana,37.29,06/2017
+Banana,28.96,07/2017
+Banana,38.2,08/2017
+Banana,30.05,09/2017
+Banana,38.86,10/2017
+Banana,40.71,11/2017
+Banana,30.82,12/2017
+Banana,39.74,01/2018
+Banana,36.99,02/2018
+Banana,39.03,03/2018
+Banana,44.41,04/2018
+Banana,33.69,05/2018
+Banana,31.15,06/2018
+Banana,30.47,07/2018
+Banana,30.84,08/2018
+Banana,34.54,09/2018
+Banana,36.63,10/2018
+Banana,36.3,11/2018
+Banana,39.06,12/2018
+Banana,34.99,01/2019
+Banana,42.19,02/2019
+Banana,33.6,03/2019
+Banana,48.52,04/2019
+Banana,38.05,05/2019
+Banana,30.64,06/2019
+Banana,29.57,07/2019
+Banana,37.33,08/2019
+Banana,33.8,09/2019
+Banana,38.49,10/2019
+Banana,37.29,11/2019
+Banana,34.56,12/2019
+Banana,30.69,01/2020
+Banana,27.35,02/2020
+Banana,32.69,03/2020
+Banana,39.2,04/2020
+Banana,35.99,05/2020
+Banana,28.69,06/2020
+Banana,35.79,07/2020
+Banana,36.85,08/2020
+Banana,30.5,09/2020
+Banana,35.69,10/2020
+Banana,35.21,11/2020
+Banana,29.21,12/2020
+Banana,36.71,01/2021
+Banana,37.73,02/2021
+Banana,40.34,03/2021
+Banana,40.19,04/2021
+Banana,28.03,05/2021
+Banana,30.23,06/2021
+Banana,37.5,07/2021
+Banana,37.49,08/2021
+Banana,37.5,09/2021
+Banana,54.19,10/2021
+Banana,37.78,11/2021
+Banana,40.6,12/2021
+Banana,39.69,01/2022
+Banana,38.18,02/2022
+Banana,33.35,03/2022
+Banana,38.72,04/2022
+Banana,31.06,05/2022
+Banana,33.74,06/2022
+Banana,32.49,07/2022
+Banana,35.33,08/2022
+Banana,46.49,09/2022
+Banana,25.59,10/2022
+Banana,38.35,11/2022
+Banana,26.86,12/2022
+Banana,32.56,01/2023
+Banana,40.37,02/2023
+Banana,35.24,03/2023
+Banana,29.53,04/2023
+Banana,31.34,05/2023
+Banana,38.32,06/2023
+Banana,31.27,07/2023
+Banana,36.0,08/2023
+Banana,35.15,09/2023
+Banana,31.66,10/2023
+Banana,45.64,11/2023
+Banana,38.09,12/2023
+Banana,24.8,01/2024
+Banana,35.85,02/2024
+Banana,31.61,03/2024
+Banana,39.18,04/2024
+Banana,30.96,05/2024
+Banana,34.35,06/2024
+Banana,37.45,07/2024
+Banana,39.25,08/2024
+Banana,28.92,09/2024
+Banana,33.25,10/2024
+Banana,32.55,11/2024
+Banana,31.65,12/2024
+Banana,43.75,01/2025
+Banana,36.95,02/2025
+Banana,28.62,03/2025
+Banana,39.51,04/2025
+Banana,45.53,05/2025
+Banana,40.08,06/2025
+Banana,27.32,07/2025
+Banana,32.5,08/2025
+Jute,47.29,01/2015
+Jute,57.84,02/2015
+Jute,48.38,03/2015
+Jute,43.81,04/2015
+Jute,42.0,05/2015
+Jute,47.95,06/2015
+Jute,38.5,07/2015
+Jute,41.98,08/2015
+Jute,56.19,09/2015
+Jute,55.09,10/2015
+Jute,47.84,11/2015
+Jute,46.15,12/2015
+Jute,48.77,01/2016
+Jute,60.22,02/2016
+Jute,50.5,03/2016
+Jute,53.03,04/2016
+Jute,47.47,05/2016
+Jute,48.78,06/2016
+Jute,51.71,07/2016
+Jute,49.11,08/2016
+Jute,38.99,09/2016
+Jute,54.88,10/2016
+Jute,45.4,11/2016
+Jute,59.03,12/2016
+Jute,51.91,01/2017
+Jute,48.83,02/2017
+Jute,50.67,03/2017
+Jute,47.94,04/2017
+Jute,46.05,05/2017
+Jute,49.52,06/2017
+Jute,52.9,07/2017
+Jute,46.16,08/2017
+Jute,45.37,09/2017
+Jute,46.7,10/2017
+Jute,53.24,11/2017
+Jute,55.74,12/2017
+Jute,50.29,01/2018
+Jute,51.38,02/2018
+Jute,45.33,03/2018
+Jute,52.86,04/2018
+Jute,51.24,05/2018
+Jute,44.93,06/2018
+Jute,39.54,07/2018
+Jute,42.37,08/2018
+Jute,45.13,09/2018
+Jute,54.29,10/2018
+Jute,56.24,11/2018
+Jute,46.28,12/2018
+Jute,46.44,01/2019
+Jute,49.79,02/2019
+Jute,48.54,03/2019
+Jute,53.13,04/2019
+Jute,45.86,05/2019
+Jute,53.22,06/2019
+Jute,47.28,07/2019
+Jute,52.75,08/2019
+Jute,47.12,09/2019
+Jute,45.41,10/2019
+Jute,58.04,11/2019
+Jute,53.8,12/2019
+Jute,39.52,01/2020
+Jute,46.24,02/2020
+Jute,54.5,03/2020
+Jute,42.49,04/2020
+Jute,52.33,05/2020
+Jute,51.81,06/2020
+Jute,44.98,07/2020
+Jute,48.43,08/2020
+Jute,38.03,09/2020
+Jute,57.33,10/2020
+Jute,46.93,11/2020
+Jute,52.5,12/2020
+Jute,51.55,01/2021
+Jute,55.27,02/2021
+Jute,46.31,03/2021
+Jute,49.5,04/2021
+Jute,51.27,05/2021
+Jute,52.84,06/2021
+Jute,54.25,07/2021
+Jute,46.09,08/2021
+Jute,45.16,09/2021
+Jute,55.28,10/2021
+Jute,38.29,11/2021
+Jute,56.33,12/2021
+Jute,46.97,01/2022
+Jute,48.46,02/2022
+Jute,45.07,03/2022
+Jute,48.24,04/2022
+Jute,54.83,05/2022
+Jute,52.33,06/2022
+Jute,50.94,07/2022
+Jute,48.92,08/2022
+Jute,41.25,09/2022
+Jute,44.26,10/2022
+Jute,46.76,11/2022
+Jute,50.77,12/2022
+Jute,48.83,01/2023
+Jute,53.4,02/2023
+Jute,50.85,03/2023
+Jute,48.75,04/2023
+Jute,59.86,05/2023
+Jute,50.51,06/2023
+Jute,46.32,07/2023
+Jute,57.78,08/2023
+Jute,54.48,09/2023
+Jute,57.56,10/2023
+Jute,47.92,11/2023
+Jute,53.36,12/2023
+Jute,41.21,01/2024
+Jute,52.4,02/2024
+Jute,47.69,03/2024
+Jute,41.7,04/2024
+Jute,53.64,05/2024
+Jute,39.43,06/2024
+Jute,38.91,07/2024
+Jute,50.29,08/2024
+Jute,51.33,09/2024
+Jute,53.33,10/2024
+Jute,52.19,11/2024
+Jute,55.86,12/2024
+Jute,51.98,01/2025
+Jute,47.82,02/2025
+Jute,48.11,03/2025
+Jute,47.07,04/2025
+Jute,49.96,05/2025
+Jute,42.99,06/2025
+Jute,50.18,07/2025
+Jute,48.05,08/2025
+Ginger,86.8,01/2015
+Ginger,93.56,02/2015
+Ginger,79.4,03/2015
+Ginger,84.37,04/2015
+Ginger,87.4,05/2015
+Ginger,87.6,06/2015
+Ginger,85.12,07/2015
+Ginger,90.48,08/2015
+Ginger,82.03,09/2015
+Ginger,86.66,10/2015
+Ginger,87.97,11/2015
+Ginger,89.94,12/2015
+Ginger,90.93,01/2016
+Ginger,81.75,02/2016
+Ginger,79.7,03/2016
+Ginger,93.76,04/2016
+Ginger,89.03,05/2016
+Ginger,83.63,06/2016
+Ginger,95.13,07/2016
+Ginger,87.95,08/2016
+Ginger,93.27,09/2016
+Ginger,87.71,10/2016
+Ginger,97.67,11/2016
+Ginger,96.15,12/2016
+Ginger,86.12,01/2017
+Ginger,92.23,02/2017
+Ginger,90.6,03/2017
+Ginger,94.21,04/2017
+Ginger,82.54,05/2017
+Ginger,90.8,06/2017
+Ginger,92.66,07/2017
+Ginger,78.58,08/2017
+Ginger,81.45,09/2017
+Ginger,77.17,10/2017
+Ginger,86.02,11/2017
+Ginger,90.96,12/2017
+Ginger,94.88,01/2018
+Ginger,87.74,02/2018
+Ginger,95.51,03/2018
+Ginger,80.47,04/2018
+Ginger,78.85,05/2018
+Ginger,87.09,06/2018
+Ginger,89.29,07/2018
+Ginger,87.21,08/2018
+Ginger,77.03,09/2018
+Ginger,86.92,10/2018
+Ginger,80.85,11/2018
+Ginger,90.72,12/2018
+Ginger,89.2,01/2019
+Ginger,82.67,02/2019
+Ginger,84.8,03/2019
+Ginger,82.07,04/2019
+Ginger,87.06,05/2019
+Ginger,92.15,06/2019
+Ginger,82.44,07/2019
+Ginger,89.89,08/2019
+Ginger,84.72,09/2019
+Ginger,83.41,10/2019
+Ginger,86.83,11/2019
+Ginger,82.19,12/2019
+Ginger,84.6,01/2020
+Ginger,81.38,02/2020
+Ginger,97.19,03/2020
+Ginger,87.55,04/2020
+Ginger,83.87,05/2020
+Ginger,88.44,06/2020
+Ginger,86.81,07/2020
+Ginger,86.26,08/2020
+Ginger,90.44,09/2020
+Ginger,91.16,10/2020
+Ginger,84.72,11/2020
+Ginger,84.49,12/2020
+Ginger,85.99,01/2021
+Ginger,75.86,02/2021
+Ginger,79.79,03/2021
+Ginger,94.2,04/2021
+Ginger,95.59,05/2021
+Ginger,86.12,06/2021
+Ginger,90.25,07/2021
+Ginger,88.93,08/2021
+Ginger,102.76,09/2021
+Ginger,92.97,10/2021
+Ginger,86.73,11/2021
+Ginger,82.59,12/2021
+Ginger,79.34,01/2022
+Ginger,88.39,02/2022
+Ginger,83.59,03/2022
+Ginger,80.26,04/2022
+Ginger,84.14,05/2022
+Ginger,81.96,06/2022
+Ginger,95.81,07/2022
+Ginger,91.78,08/2022
+Ginger,87.33,09/2022
+Ginger,94.77,10/2022
+Ginger,87.76,11/2022
+Ginger,83.06,12/2022
+Ginger,94.99,01/2023
+Ginger,90.06,02/2023
+Ginger,82.18,03/2023
+Ginger,86.42,04/2023
+Ginger,82.99,05/2023
+Ginger,80.46,06/2023
+Ginger,92.0,07/2023
+Ginger,96.92,08/2023
+Ginger,80.38,09/2023
+Ginger,90.18,10/2023
+Ginger,84.12,11/2023
+Ginger,84.93,12/2023
+Ginger,84.41,01/2024
+Ginger,83.05,02/2024
+Ginger,87.61,03/2024
+Ginger,83.21,04/2024
+Ginger,88.72,05/2024
+Ginger,87.12,06/2024
+Ginger,86.17,07/2024
+Ginger,82.83,08/2024
+Ginger,84.49,09/2024
+Ginger,91.15,10/2024
+Ginger,89.87,11/2024
+Ginger,82.48,12/2024
+Ginger,87.87,01/2025
+Ginger,91.13,02/2025
+Ginger,79.02,03/2025
+Ginger,90.09,04/2025
+Ginger,84.06,05/2025
+Ginger,90.22,06/2025
+Ginger,83.55,07/2025
+Ginger,78.35,08/2025
+Potato,58.32,01/2015
+Potato,59.08,02/2015
+Potato,52.99,03/2015
+Potato,64.6,04/2015
+Potato,54.91,05/2015
+Potato,61.95,06/2015
+Potato,74.53,07/2015
+Potato,52.55,08/2015
+Potato,59.87,09/2015
+Potato,58.57,10/2015
+Potato,57.6,11/2015
+Potato,64.41,12/2015
+Potato,66.14,01/2016
+Potato,64.47,02/2016
+Potato,56.99,03/2016
+Potato,72.78,04/2016
+Potato,51.76,05/2016
+Potato,55.45,06/2016
+Potato,61.46,07/2016
+Potato,61.06,08/2016
+Potato,63.05,09/2016
+Potato,68.51,10/2016
+Potato,60.01,11/2016
+Potato,61.18,12/2016
+Potato,57.64,01/2017
+Potato,63.55,02/2017
+Potato,59.02,03/2017
+Potato,59.01,04/2017
+Potato,63.33,05/2017
+Potato,65.78,06/2017
+Potato,49.57,07/2017
+Potato,62.41,08/2017
+Potato,59.26,09/2017
+Potato,65.35,10/2017
+Potato,59.36,11/2017
+Potato,67.11,12/2017
+Potato,57.23,01/2018
+Potato,49.46,02/2018
+Potato,65.87,03/2018
+Potato,56.39,04/2018
+Potato,52.71,05/2018
+Potato,60.69,06/2018
+Potato,59.41,07/2018
+Potato,64.72,08/2018
+Potato,65.07,09/2018
+Potato,61.09,10/2018
+Potato,56.18,11/2018
+Potato,62.04,12/2018
+Potato,61.43,01/2019
+Potato,63.45,02/2019
+Potato,56.23,03/2019
+Potato,58.61,04/2019
+Potato,63.16,05/2019
+Potato,66.85,06/2019
+Potato,65.44,07/2019
+Potato,61.02,08/2019
+Potato,58.17,09/2019
+Potato,62.63,10/2019
+Potato,55.15,11/2019
+Potato,56.52,12/2019
+Potato,68.16,01/2020
+Potato,62.62,02/2020
+Potato,58.87,03/2020
+Potato,64.75,04/2020
+Potato,67.04,05/2020
+Potato,58.39,06/2020
+Potato,58.47,07/2020
+Potato,57.85,08/2020
+Potato,65.43,09/2020
+Potato,65.48,10/2020
+Potato,67.54,11/2020
+Potato,65.65,12/2020
+Potato,52.45,01/2021
+Potato,62.01,02/2021
+Potato,55.32,03/2021
+Potato,58.04,04/2021
+Potato,61.46,05/2021
+Potato,64.79,06/2021
+Potato,56.15,07/2021
+Potato,48.99,08/2021
+Potato,61.51,09/2021
+Potato,73.83,10/2021
+Potato,59.59,11/2021
+Potato,60.84,12/2021
+Potato,69.52,01/2022
+Potato,63.56,02/2022
+Potato,61.69,03/2022
+Potato,62.82,04/2022
+Potato,61.86,05/2022
+Potato,54.91,06/2022
+Potato,53.9,07/2022
+Potato,70.04,08/2022
+Potato,61.53,09/2022
+Potato,61.11,10/2022
+Potato,60.16,11/2022
+Potato,64.51,12/2022
+Potato,73.3,01/2023
+Potato,63.23,02/2023
+Potato,57.67,03/2023
+Potato,59.94,04/2023
+Potato,65.96,05/2023
+Potato,57.69,06/2023
+Potato,64.87,07/2023
+Potato,49.01,08/2023
+Potato,59.46,09/2023
+Potato,63.75,10/2023
+Potato,66.96,11/2023
+Potato,56.52,12/2023
+Potato,53.1,01/2024
+Potato,59.31,02/2024
+Potato,54.98,03/2024
+Potato,59.86,04/2024
+Potato,60.58,05/2024
+Potato,54.01,06/2024
+Potato,64.63,07/2024
+Potato,59.82,08/2024
+Potato,66.01,09/2024
+Potato,51.38,10/2024
+Potato,55.52,11/2024
+Potato,63.19,12/2024
+Potato,56.61,01/2025
+Potato,59.79,02/2025
+Potato,60.61,03/2025
+Potato,61.4,04/2025
+Potato,57.22,05/2025
+Potato,61.36,06/2025
+Potato,56.7,07/2025
+Potato,63.98,08/2025
+Tapioca,88.98,01/2015
+Tapioca,89.11,02/2015
+Tapioca,91.68,03/2015
+Tapioca,89.13,04/2015
+Tapioca,88.28,05/2015
+Tapioca,92.38,06/2015
+Tapioca,90.57,07/2015
+Tapioca,99.36,08/2015
+Tapioca,78.59,09/2015
+Tapioca,97.3,10/2015
+Tapioca,98.07,11/2015
+Tapioca,81.48,12/2015
+Tapioca,90.13,01/2016
+Tapioca,89.99,02/2016
+Tapioca,84.81,03/2016
+Tapioca,87.96,04/2016
+Tapioca,86.29,05/2016
+Tapioca,100.61,06/2016
+Tapioca,96.52,07/2016
+Tapioca,98.2,08/2016
+Tapioca,95.45,09/2016
+Tapioca,86.2,10/2016
+Tapioca,89.22,11/2016
+Tapioca,94.29,12/2016
+Tapioca,85.73,01/2017
+Tapioca,95.41,02/2017
+Tapioca,90.64,03/2017
+Tapioca,89.97,04/2017
+Tapioca,95.4,05/2017
+Tapioca,94.07,06/2017
+Tapioca,90.04,07/2017
+Tapioca,97.64,08/2017
+Tapioca,86.44,09/2017
+Tapioca,94.92,10/2017
+Tapioca,94.81,11/2017
+Tapioca,90.3,12/2017
+Tapioca,93.48,01/2018
+Tapioca,85.59,02/2018
+Tapioca,96.46,03/2018
+Tapioca,90.92,04/2018
+Tapioca,89.23,05/2018
+Tapioca,97.09,06/2018
+Tapioca,88.32,07/2018
+Tapioca,84.8,08/2018
+Tapioca,84.06,09/2018
+Tapioca,94.87,10/2018
+Tapioca,85.44,11/2018
+Tapioca,100.62,12/2018
+Tapioca,81.43,01/2019
+Tapioca,100.33,02/2019
+Tapioca,92.9,03/2019
+Tapioca,91.36,04/2019
+Tapioca,89.12,05/2019
+Tapioca,93.84,06/2019
+Tapioca,91.66,07/2019
+Tapioca,97.36,08/2019
+Tapioca,92.42,09/2019
+Tapioca,92.6,10/2019
+Tapioca,90.03,11/2019
+Tapioca,91.56,12/2019
+Tapioca,93.38,01/2020
+Tapioca,83.29,02/2020
+Tapioca,85.1,03/2020
+Tapioca,95.56,04/2020
+Tapioca,92.7,05/2020
+Tapioca,90.92,06/2020
+Tapioca,91.94,07/2020
+Tapioca,93.58,08/2020
+Tapioca,89.15,09/2020
+Tapioca,87.95,10/2020
+Tapioca,92.82,11/2020
+Tapioca,86.95,12/2020
+Tapioca,93.89,01/2021
+Tapioca,83.33,02/2021
+Tapioca,96.99,03/2021
+Tapioca,94.21,04/2021
+Tapioca,93.12,05/2021
+Tapioca,96.76,06/2021
+Tapioca,100.17,07/2021
+Tapioca,96.92,08/2021
+Tapioca,82.64,09/2021
+Tapioca,85.45,10/2021
+Tapioca,88.72,11/2021
+Tapioca,91.97,12/2021
+Tapioca,94.43,01/2022
+Tapioca,88.22,02/2022
+Tapioca,92.78,03/2022
+Tapioca,88.07,04/2022
+Tapioca,88.79,05/2022
+Tapioca,84.81,06/2022
+Tapioca,87.23,07/2022
+Tapioca,85.09,08/2022
+Tapioca,86.96,09/2022
+Tapioca,97.11,10/2022
+Tapioca,87.1,11/2022
+Tapioca,105.01,12/2022
+Tapioca,94.31,01/2023
+Tapioca,92.77,02/2023
+Tapioca,87.55,03/2023
+Tapioca,95.35,04/2023
+Tapioca,88.97,05/2023
+Tapioca,92.45,06/2023
+Tapioca,104.64,07/2023
+Tapioca,91.36,08/2023
+Tapioca,97.59,09/2023
+Tapioca,88.33,10/2023
+Tapioca,91.67,11/2023
+Tapioca,100.7,12/2023
+Tapioca,88.71,01/2024
+Tapioca,100.91,02/2024
+Tapioca,95.38,03/2024
+Tapioca,89.03,04/2024
+Tapioca,95.01,05/2024
+Tapioca,96.71,06/2024
+Tapioca,94.95,07/2024
+Tapioca,83.99,08/2024
+Tapioca,88.21,09/2024
+Tapioca,90.61,10/2024
+Tapioca,91.47,11/2024
+Tapioca,94.95,12/2024
+Tapioca,92.73,01/2025
+Tapioca,85.17,02/2025
+Tapioca,93.75,03/2025
+Tapioca,94.9,04/2025
+Tapioca,94.64,05/2025
+Tapioca,97.25,06/2025
+Tapioca,96.01,07/2025
+Tapioca,94.14,08/2025
+Mesta,32.34,01/2015
+Mesta,39.68,02/2015
+Mesta,44.07,03/2015
+Mesta,40.64,04/2015
+Mesta,42.21,05/2015
+Mesta,38.91,06/2015
+Mesta,45.62,07/2015
+Mesta,39.57,08/2015
+Mesta,37.65,09/2015
+Mesta,44.41,10/2015
+Mesta,32.95,11/2015
+Mesta,42.48,12/2015
+Mesta,34.76,01/2016
+Mesta,46.36,02/2016
+Mesta,38.67,03/2016
+Mesta,40.65,04/2016
+Mesta,42.04,05/2016
+Mesta,30.33,06/2016
+Mesta,36.72,07/2016
+Mesta,45.19,08/2016
+Mesta,44.31,09/2016
+Mesta,41.39,10/2016
+Mesta,33.23,11/2016
+Mesta,42.9,12/2016
+Mesta,43.54,01/2017
+Mesta,40.21,02/2017
+Mesta,46.09,03/2017
+Mesta,36.56,04/2017
+Mesta,37.42,05/2017
+Mesta,27.55,06/2017
+Mesta,44.57,07/2017
+Mesta,41.54,08/2017
+Mesta,31.56,09/2017
+Mesta,31.18,10/2017
+Mesta,35.61,11/2017
+Mesta,43.94,12/2017
+Mesta,38.47,01/2018
+Mesta,35.95,02/2018
+Mesta,34.94,03/2018
+Mesta,34.72,04/2018
+Mesta,30.31,05/2018
+Mesta,33.94,06/2018
+Mesta,34.62,07/2018
+Mesta,43.39,08/2018
+Mesta,39.14,09/2018
+Mesta,35.85,10/2018
+Mesta,51.52,11/2018
+Mesta,36.65,12/2018
+Mesta,45.81,01/2019
+Mesta,48.08,02/2019
+Mesta,32.12,03/2019
+Mesta,40.34,04/2019
+Mesta,37.39,05/2019
+Mesta,36.98,06/2019
+Mesta,42.75,07/2019
+Mesta,36.86,08/2019
+Mesta,37.49,09/2019
+Mesta,39.13,10/2019
+Mesta,38.11,11/2019
+Mesta,34.11,12/2019
+Mesta,43.95,01/2020
+Mesta,45.22,02/2020
+Mesta,41.69,03/2020
+Mesta,38.09,04/2020
+Mesta,36.45,05/2020
+Mesta,36.46,06/2020
+Mesta,51.76,07/2020
+Mesta,44.66,08/2020
+Mesta,35.77,09/2020
+Mesta,40.8,10/2020
+Mesta,38.16,11/2020
+Mesta,42.89,12/2020
+Mesta,42.69,01/2021
+Mesta,45.39,02/2021
+Mesta,35.72,03/2021
+Mesta,40.5,04/2021
+Mesta,31.23,05/2021
+Mesta,33.69,06/2021
+Mesta,44.39,07/2021
+Mesta,35.22,08/2021
+Mesta,35.77,09/2021
+Mesta,39.93,10/2021
+Mesta,43.45,11/2021
+Mesta,34.67,12/2021
+Mesta,22.57,01/2022
+Mesta,35.62,02/2022
+Mesta,46.0,03/2022
+Mesta,41.69,04/2022
+Mesta,46.59,05/2022
+Mesta,34.31,06/2022
+Mesta,31.78,07/2022
+Mesta,42.29,08/2022
+Mesta,41.17,09/2022
+Mesta,41.5,10/2022
+Mesta,44.64,11/2022
+Mesta,42.08,12/2022
+Mesta,42.0,01/2023
+Mesta,43.55,02/2023
+Mesta,42.49,03/2023
+Mesta,44.26,04/2023
+Mesta,45.02,05/2023
+Mesta,47.63,06/2023
+Mesta,36.73,07/2023
+Mesta,42.38,08/2023
+Mesta,38.12,09/2023
+Mesta,35.81,10/2023
+Mesta,36.53,11/2023
+Mesta,42.45,12/2023
+Mesta,42.06,01/2024
+Mesta,41.98,02/2024
+Mesta,38.84,03/2024
+Mesta,39.99,04/2024
+Mesta,44.06,05/2024
+Mesta,32.53,06/2024
+Mesta,40.1,07/2024
+Mesta,40.42,08/2024
+Mesta,43.74,09/2024
+Mesta,33.22,10/2024
+Mesta,47.45,11/2024
+Mesta,41.04,12/2024
+Mesta,41.31,01/2025
+Mesta,37.97,02/2025
+Mesta,42.66,03/2025
+Mesta,40.21,04/2025
+Mesta,46.02,05/2025
+Mesta,32.77,06/2025
+Mesta,40.85,07/2025
+Mesta,42.02,08/2025
+Onion,30.8,01/2015
+Onion,20.29,02/2015
+Onion,26.09,03/2015
+Onion,21.93,04/2015
+Onion,31.4,05/2015
+Onion,17.81,06/2015
+Onion,22.63,07/2015
+Onion,27.31,08/2015
+Onion,33.25,09/2015
+Onion,25.1,10/2015
+Onion,22.65,11/2015
+Onion,34.83,12/2015
+Onion,18.19,01/2016
+Onion,14.43,02/2016
+Onion,27.63,03/2016
+Onion,22.92,04/2016
+Onion,20.32,05/2016
+Onion,28.97,06/2016
+Onion,26.65,07/2016
+Onion,22.61,08/2016
+Onion,19.03,09/2016
+Onion,29.79,10/2016
+Onion,28.68,11/2016
+Onion,24.93,12/2016
+Onion,34.66,01/2017
+Onion,20.08,02/2017
+Onion,17.8,03/2017
+Onion,21.97,04/2017
+Onion,25.2,05/2017
+Onion,26.64,06/2017
+Onion,24.22,07/2017
+Onion,27.19,08/2017
+Onion,19.17,09/2017
+Onion,32.65,10/2017
+Onion,25.02,11/2017
+Onion,31.01,12/2017
+Onion,27.14,01/2018
+Onion,27.71,02/2018
+Onion,28.28,03/2018
+Onion,27.67,04/2018
+Onion,28.64,05/2018
+Onion,32.07,06/2018
+Onion,26.41,07/2018
+Onion,28.97,08/2018
+Onion,24.98,09/2018
+Onion,32.63,10/2018
+Onion,22.05,11/2018
+Onion,34.43,12/2018
+Onion,25.23,01/2019
+Onion,18.27,02/2019
+Onion,26.07,03/2019
+Onion,22.02,04/2019
+Onion,29.63,05/2019
+Onion,22.16,06/2019
+Onion,23.2,07/2019
+Onion,15.98,08/2019
+Onion,23.17,09/2019
+Onion,13.31,10/2019
+Onion,17.51,11/2019
+Onion,29.23,12/2019
+Onion,29.36,01/2020
+Onion,27.55,02/2020
+Onion,20.59,03/2020
+Onion,25.19,04/2020
+Onion,25.41,05/2020
+Onion,19.64,06/2020
+Onion,32.94,07/2020
+Onion,29.81,08/2020
+Onion,24.32,09/2020
+Onion,25.56,10/2020
+Onion,26.47,11/2020
+Onion,15.22,12/2020
+Onion,24.19,01/2021
+Onion,22.02,02/2021
+Onion,20.42,03/2021
+Onion,24.02,04/2021
+Onion,34.42,05/2021
+Onion,28.63,06/2021
+Onion,22.57,07/2021
+Onion,28.29,08/2021
+Onion,32.42,09/2021
+Onion,30.05,10/2021
+Onion,25.73,11/2021
+Onion,22.19,12/2021
+Onion,28.92,01/2022
+Onion,27.39,02/2022
+Onion,29.9,03/2022
+Onion,28.6,04/2022
+Onion,30.67,05/2022
+Onion,22.75,06/2022
+Onion,32.01,07/2022
+Onion,26.41,08/2022
+Onion,35.8,09/2022
+Onion,21.98,10/2022
+Onion,34.11,11/2022
+Onion,26.42,12/2022
+Onion,22.17,01/2023
+Onion,23.01,02/2023
+Onion,23.83,03/2023
+Onion,27.55,04/2023
+Onion,28.04,05/2023
+Onion,22.56,06/2023
+Onion,25.31,07/2023
+Onion,36.14,08/2023
+Onion,34.06,09/2023
+Onion,27.61,10/2023
+Onion,25.62,11/2023
+Onion,26.03,12/2023
+Onion,28.49,01/2024
+Onion,20.31,02/2024
+Onion,24.14,03/2024
+Onion,17.08,04/2024
+Onion,27.42,05/2024
+Onion,28.66,06/2024
+Onion,23.01,07/2024
+Onion,33.3,08/2024
+Onion,19.3,09/2024
+Onion,18.11,10/2024
+Onion,26.55,11/2024
+Onion,30.66,12/2024
+Onion,33.85,01/2025
+Onion,23.13,02/2025
+Onion,30.82,03/2025
+Onion,25.23,04/2025
+Onion,24.56,05/2025
+Onion,29.85,06/2025
+Onion,28.69,07/2025
+Onion,17.55,08/2025
+Sweet potato,95.65,01/2015
+Sweet potato,86.72,02/2015
+Sweet potato,99.87,03/2015
+Sweet potato,96.87,04/2015
+Sweet potato,95.0,05/2015
+Sweet potato,89.56,06/2015
+Sweet potato,94.61,07/2015
+Sweet potato,91.53,08/2015
+Sweet potato,84.74,09/2015
+Sweet potato,92.74,10/2015
+Sweet potato,92.21,11/2015
+Sweet potato,98.3,12/2015
+Sweet potato,81.82,01/2016
+Sweet potato,94.17,02/2016
+Sweet potato,87.21,03/2016
+Sweet potato,94.59,04/2016
+Sweet potato,94.86,05/2016
+Sweet potato,92.55,06/2016
+Sweet potato,97.03,07/2016
+Sweet potato,86.76,08/2016
+Sweet potato,98.53,09/2016
+Sweet potato,89.45,10/2016
+Sweet potato,85.21,11/2016
+Sweet potato,91.63,12/2016
+Sweet potato,82.51,01/2017
+Sweet potato,94.26,02/2017
+Sweet potato,91.69,03/2017
+Sweet potato,99.16,04/2017
+Sweet potato,96.23,05/2017
+Sweet potato,86.03,06/2017
+Sweet potato,88.8,07/2017
+Sweet potato,95.59,08/2017
+Sweet potato,97.22,09/2017
+Sweet potato,99.1,10/2017
+Sweet potato,99.06,11/2017
+Sweet potato,92.54,12/2017
+Sweet potato,94.8,01/2018
+Sweet potato,99.48,02/2018
+Sweet potato,91.47,03/2018
+Sweet potato,94.89,04/2018
+Sweet potato,91.35,05/2018
+Sweet potato,90.23,06/2018
+Sweet potato,93.23,07/2018
+Sweet potato,89.55,08/2018
+Sweet potato,92.33,09/2018
+Sweet potato,87.81,10/2018
+Sweet potato,92.04,11/2018
+Sweet potato,95.23,12/2018
+Sweet potato,90.05,01/2019
+Sweet potato,93.04,02/2019
+Sweet potato,93.69,03/2019
+Sweet potato,95.25,04/2019
+Sweet potato,92.32,05/2019
+Sweet potato,98.42,06/2019
+Sweet potato,82.48,07/2019
+Sweet potato,107.68,08/2019
+Sweet potato,88.63,09/2019
+Sweet potato,95.01,10/2019
+Sweet potato,88.3,11/2019
+Sweet potato,96.21,12/2019
+Sweet potato,94.37,01/2020
+Sweet potato,89.74,02/2020
+Sweet potato,98.35,03/2020
+Sweet potato,92.17,04/2020
+Sweet potato,95.73,05/2020
+Sweet potato,88.4,06/2020
+Sweet potato,92.83,07/2020
+Sweet potato,103.01,08/2020
+Sweet potato,97.8,09/2020
+Sweet potato,94.53,10/2020
+Sweet potato,90.74,11/2020
+Sweet potato,93.33,12/2020
+Sweet potato,93.98,01/2021
+Sweet potato,95.24,02/2021
+Sweet potato,87.61,03/2021
+Sweet potato,96.33,04/2021
+Sweet potato,87.54,05/2021
+Sweet potato,101.14,06/2021
+Sweet potato,89.13,07/2021
+Sweet potato,94.47,08/2021
+Sweet potato,98.01,09/2021
+Sweet potato,91.73,10/2021
+Sweet potato,94.69,11/2021
+Sweet potato,100.16,12/2021
+Sweet potato,95.81,01/2022
+Sweet potato,94.77,02/2022
+Sweet potato,84.57,03/2022
+Sweet potato,88.32,04/2022
+Sweet potato,98.22,05/2022
+Sweet potato,95.84,06/2022
+Sweet potato,96.6,07/2022
+Sweet potato,96.17,08/2022
+Sweet potato,99.44,09/2022
+Sweet potato,91.68,10/2022
+Sweet potato,93.59,11/2022
+Sweet potato,87.85,12/2022
+Sweet potato,86.6,01/2023
+Sweet potato,84.77,02/2023
+Sweet potato,88.56,03/2023
+Sweet potato,100.75,04/2023
+Sweet potato,85.23,05/2023
+Sweet potato,91.47,06/2023
+Sweet potato,86.52,07/2023
+Sweet potato,89.98,08/2023
+Sweet potato,93.84,09/2023
+Sweet potato,89.49,10/2023
+Sweet potato,98.44,11/2023
+Sweet potato,100.66,12/2023
+Sweet potato,81.74,01/2024
+Sweet potato,89.57,02/2024
+Sweet potato,93.28,03/2024
+Sweet potato,98.62,04/2024
+Sweet potato,90.72,05/2024
+Sweet potato,92.89,06/2024
+Sweet potato,87.21,07/2024
+Sweet potato,85.33,08/2024
+Sweet potato,100.22,09/2024
+Sweet potato,83.87,10/2024
+Sweet potato,104.63,11/2024
+Sweet potato,96.61,12/2024
+Sweet potato,96.39,01/2025
+Sweet potato,95.87,02/2025
+Sweet potato,91.73,03/2025
+Sweet potato,94.95,04/2025
+Sweet potato,92.04,05/2025
+Sweet potato,95.75,06/2025
+Sweet potato,92.82,07/2025
+Sweet potato,88.24,08/2025
+Rice,35.6,01/2015
+Rice,35.02,02/2015
+Rice,41.44,03/2015
+Rice,47.5,04/2015
+Rice,45.13,05/2015
+Rice,32.69,06/2015
+Rice,35.59,07/2015
+Rice,45.25,08/2015
+Rice,35.63,09/2015
+Rice,39.42,10/2015
+Rice,43.29,11/2015
+Rice,35.7,12/2015
+Rice,41.07,01/2016
+Rice,33.87,02/2016
+Rice,37.54,03/2016
+Rice,42.14,04/2016
+Rice,32.58,05/2016
+Rice,42.74,06/2016
+Rice,40.44,07/2016
+Rice,43.3,08/2016
+Rice,41.66,09/2016
+Rice,47.36,10/2016
+Rice,41.17,11/2016
+Rice,38.4,12/2016
+Rice,41.15,01/2017
+Rice,43.26,02/2017
+Rice,40.79,03/2017
+Rice,40.75,04/2017
+Rice,37.03,05/2017
+Rice,37.23,06/2017
+Rice,33.53,07/2017
+Rice,49.29,08/2017
+Rice,34.32,09/2017
+Rice,37.08,10/2017
+Rice,36.95,11/2017
+Rice,45.02,12/2017
+Rice,39.07,01/2018
+Rice,46.78,02/2018
+Rice,37.17,03/2018
+Rice,41.94,04/2018
+Rice,36.37,05/2018
+Rice,51.27,06/2018
+Rice,34.6,07/2018
+Rice,42.09,08/2018
+Rice,43.71,09/2018
+Rice,42.61,10/2018
+Rice,39.62,11/2018
+Rice,39.89,12/2018
+Rice,40.76,01/2019
+Rice,39.81,02/2019
+Rice,45.36,03/2019
+Rice,51.59,04/2019
+Rice,37.75,05/2019
+Rice,33.69,06/2019
+Rice,40.1,07/2019
+Rice,53.44,08/2019
+Rice,36.52,09/2019
+Rice,48.74,10/2019
+Rice,48.93,11/2019
+Rice,37.77,12/2019
+Rice,43.39,01/2020
+Rice,48.68,02/2020
+Rice,38.65,03/2020
+Rice,39.52,04/2020
+Rice,37.63,05/2020
+Rice,35.47,06/2020
+Rice,37.3,07/2020
+Rice,34.42,08/2020
+Rice,40.71,09/2020
+Rice,36.69,10/2020
+Rice,41.71,11/2020
+Rice,32.76,12/2020
+Rice,42.2,01/2021
+Rice,44.71,02/2021
+Rice,30.57,03/2021
+Rice,42.41,04/2021
+Rice,46.68,05/2021
+Rice,34.49,06/2021
+Rice,48.9,07/2021
+Rice,42.64,08/2021
+Rice,37.02,09/2021
+Rice,40.26,10/2021
+Rice,43.33,11/2021
+Rice,40.92,12/2021
+Rice,43.24,01/2022
+Rice,35.94,02/2022
+Rice,41.39,03/2022
+Rice,33.47,04/2022
+Rice,39.99,05/2022
+Rice,36.02,06/2022
+Rice,36.86,07/2022
+Rice,46.72,08/2022
+Rice,46.0,09/2022
+Rice,43.59,10/2022
+Rice,35.08,11/2022
+Rice,38.96,12/2022
+Rice,46.61,01/2023
+Rice,41.25,02/2023
+Rice,52.14,03/2023
+Rice,42.51,04/2023
+Rice,41.5,05/2023
+Rice,39.0,06/2023
+Rice,41.21,07/2023
+Rice,39.78,08/2023
+Rice,44.08,09/2023
+Rice,45.33,10/2023
+Rice,36.61,11/2023
+Rice,33.89,12/2023
+Rice,31.36,01/2024
+Rice,43.08,02/2024
+Rice,35.03,03/2024
+Rice,29.78,04/2024
+Rice,42.49,05/2024
+Rice,53.01,06/2024
+Rice,40.51,07/2024
+Rice,44.73,08/2024
+Rice,40.95,09/2024
+Rice,40.05,10/2024
+Rice,45.14,11/2024
+Rice,39.09,12/2024
+Rice,41.88,01/2025
+Rice,42.15,02/2025
+Rice,37.2,03/2025
+Rice,45.5,04/2025
+Rice,39.67,05/2025
+Rice,36.76,06/2025
+Rice,43.22,07/2025
+Rice,36.05,08/2025
+Turmeric,47.94,01/2015
+Turmeric,48.54,02/2015
+Turmeric,46.56,03/2015
+Turmeric,48.68,04/2015
+Turmeric,60.01,05/2015
+Turmeric,46.19,06/2015
+Turmeric,44.44,07/2015
+Turmeric,50.34,08/2015
+Turmeric,35.06,09/2015
+Turmeric,48.01,10/2015
+Turmeric,45.83,11/2015
+Turmeric,42.73,12/2015
+Turmeric,50.23,01/2016
+Turmeric,47.96,02/2016
+Turmeric,38.68,03/2016
+Turmeric,44.46,04/2016
+Turmeric,33.25,05/2016
+Turmeric,49.15,06/2016
+Turmeric,49.1,07/2016
+Turmeric,43.72,08/2016
+Turmeric,50.39,09/2016
+Turmeric,41.28,10/2016
+Turmeric,42.86,11/2016
+Turmeric,49.77,12/2016
+Turmeric,44.24,01/2017
+Turmeric,47.37,02/2017
+Turmeric,44.87,03/2017
+Turmeric,45.63,04/2017
+Turmeric,45.85,05/2017
+Turmeric,44.15,06/2017
+Turmeric,49.2,07/2017
+Turmeric,44.55,08/2017
+Turmeric,47.77,09/2017
+Turmeric,44.04,10/2017
+Turmeric,40.02,11/2017
+Turmeric,52.25,12/2017
+Turmeric,50.19,01/2018
+Turmeric,59.13,02/2018
+Turmeric,42.47,03/2018
+Turmeric,46.64,04/2018
+Turmeric,47.05,05/2018
+Turmeric,52.63,06/2018
+Turmeric,45.15,07/2018
+Turmeric,41.83,08/2018
+Turmeric,53.73,09/2018
+Turmeric,46.1,10/2018
+Turmeric,52.08,11/2018
+Turmeric,51.5,12/2018
+Turmeric,47.54,01/2019
+Turmeric,46.82,02/2019
+Turmeric,45.73,03/2019
+Turmeric,47.61,04/2019
+Turmeric,52.0,05/2019
+Turmeric,43.71,06/2019
+Turmeric,48.23,07/2019
+Turmeric,42.09,08/2019
+Turmeric,42.72,09/2019
+Turmeric,47.53,10/2019
+Turmeric,37.89,11/2019
+Turmeric,57.99,12/2019
+Turmeric,41.72,01/2020
+Turmeric,47.49,02/2020
+Turmeric,53.53,03/2020
+Turmeric,43.37,04/2020
+Turmeric,36.17,05/2020
+Turmeric,45.46,06/2020
+Turmeric,43.31,07/2020
+Turmeric,36.31,08/2020
+Turmeric,49.11,09/2020
+Turmeric,48.72,10/2020
+Turmeric,53.4,11/2020
+Turmeric,42.08,12/2020
+Turmeric,39.69,01/2021
+Turmeric,45.65,02/2021
+Turmeric,47.25,03/2021
+Turmeric,52.29,04/2021
+Turmeric,54.74,05/2021
+Turmeric,53.76,06/2021
+Turmeric,49.07,07/2021
+Turmeric,51.69,08/2021
+Turmeric,44.49,09/2021
+Turmeric,48.53,10/2021
+Turmeric,41.73,11/2021
+Turmeric,48.0,12/2021
+Turmeric,48.13,01/2022
+Turmeric,56.3,02/2022
+Turmeric,46.54,03/2022
+Turmeric,48.14,04/2022
+Turmeric,48.87,05/2022
+Turmeric,45.41,06/2022
+Turmeric,43.68,07/2022
+Turmeric,54.18,08/2022
+Turmeric,42.78,09/2022
+Turmeric,41.05,10/2022
+Turmeric,51.09,11/2022
+Turmeric,53.48,12/2022
+Turmeric,45.43,01/2023
+Turmeric,45.51,02/2023
+Turmeric,49.1,03/2023
+Turmeric,44.15,04/2023
+Turmeric,43.78,05/2023
+Turmeric,52.09,06/2023
+Turmeric,50.72,07/2023
+Turmeric,54.24,08/2023
+Turmeric,41.43,09/2023
+Turmeric,45.18,10/2023
+Turmeric,49.09,11/2023
+Turmeric,43.06,12/2023
+Turmeric,50.9,01/2024
+Turmeric,53.81,02/2024
+Turmeric,44.77,03/2024
+Turmeric,47.88,04/2024
+Turmeric,54.97,05/2024
+Turmeric,56.68,06/2024
+Turmeric,51.42,07/2024
+Turmeric,50.66,08/2024
+Turmeric,43.42,09/2024
+Turmeric,49.48,10/2024
+Turmeric,50.47,11/2024
+Turmeric,46.64,12/2024
+Turmeric,44.71,01/2025
+Turmeric,41.28,02/2025
+Turmeric,39.0,03/2025
+Turmeric,37.95,04/2025
+Turmeric,50.59,05/2025
+Turmeric,48.43,06/2025
+Turmeric,45.27,07/2025
+Turmeric,46.03,08/2025
+Maize,37.33,01/2015
+Maize,39.88,02/2015
+Maize,40.1,03/2015
+Maize,32.88,04/2015
+Maize,34.96,05/2015
+Maize,37.21,06/2015
+Maize,34.55,07/2015
+Maize,43.83,08/2015
+Maize,38.25,09/2015
+Maize,39.47,10/2015
+Maize,39.11,11/2015
+Maize,41.67,12/2015
+Maize,36.7,01/2016
+Maize,29.31,02/2016
+Maize,37.8,03/2016
+Maize,32.54,04/2016
+Maize,33.15,05/2016
+Maize,38.73,06/2016
+Maize,41.99,07/2016
+Maize,35.9,08/2016
+Maize,37.34,09/2016
+Maize,44.31,10/2016
+Maize,37.0,11/2016
+Maize,48.81,12/2016
+Maize,38.63,01/2017
+Maize,26.99,02/2017
+Maize,39.56,03/2017
+Maize,37.7,04/2017
+Maize,42.25,05/2017
+Maize,39.16,06/2017
+Maize,35.11,07/2017
+Maize,29.68,08/2017
+Maize,34.75,09/2017
+Maize,31.55,10/2017
+Maize,32.9,11/2017
+Maize,38.74,12/2017
+Maize,44.15,01/2018
+Maize,37.77,02/2018
+Maize,29.82,03/2018
+Maize,38.02,04/2018
+Maize,41.78,05/2018
+Maize,32.75,06/2018
+Maize,35.13,07/2018
+Maize,35.87,08/2018
+Maize,31.87,09/2018
+Maize,39.04,10/2018
+Maize,35.19,11/2018
+Maize,37.9,12/2018
+Maize,31.36,01/2019
+Maize,33.61,02/2019
+Maize,39.41,03/2019
+Maize,33.93,04/2019
+Maize,44.43,05/2019
+Maize,33.8,06/2019
+Maize,36.92,07/2019
+Maize,40.46,08/2019
+Maize,28.71,09/2019
+Maize,26.99,10/2019
+Maize,28.17,11/2019
+Maize,42.11,12/2019
+Maize,33.04,01/2020
+Maize,48.59,02/2020
+Maize,32.98,03/2020
+Maize,36.72,04/2020
+Maize,43.51,05/2020
+Maize,45.83,06/2020
+Maize,46.11,07/2020
+Maize,41.84,08/2020
+Maize,40.92,09/2020
+Maize,38.76,10/2020
+Maize,39.69,11/2020
+Maize,33.04,12/2020
+Maize,31.71,01/2021
+Maize,35.78,02/2021
+Maize,34.95,03/2021
+Maize,33.53,04/2021
+Maize,39.28,05/2021
+Maize,40.57,06/2021
+Maize,36.24,07/2021
+Maize,43.19,08/2021
+Maize,30.09,09/2021
+Maize,34.83,10/2021
+Maize,32.21,11/2021
+Maize,26.46,12/2021
+Maize,35.38,01/2022
+Maize,35.19,02/2022
+Maize,43.36,03/2022
+Maize,38.95,04/2022
+Maize,30.68,05/2022
+Maize,45.07,06/2022
+Maize,41.9,07/2022
+Maize,38.71,08/2022
+Maize,34.67,09/2022
+Maize,31.0,10/2022
+Maize,33.94,11/2022
+Maize,41.24,12/2022
+Maize,45.22,01/2023
+Maize,43.51,02/2023
+Maize,33.35,03/2023
+Maize,30.2,04/2023
+Maize,36.5,05/2023
+Maize,26.96,06/2023
+Maize,37.41,07/2023
+Maize,35.06,08/2023
+Maize,33.47,09/2023
+Maize,27.82,10/2023
+Maize,38.37,11/2023
+Maize,33.13,12/2023
+Maize,29.95,01/2024
+Maize,21.44,02/2024
+Maize,35.66,03/2024
+Maize,44.66,04/2024
+Maize,44.1,05/2024
+Maize,33.51,06/2024
+Maize,32.79,07/2024
+Maize,38.14,08/2024
+Maize,30.81,09/2024
+Maize,37.31,10/2024
+Maize,39.63,11/2024
+Maize,41.93,12/2024
+Maize,35.3,01/2025
+Maize,34.78,02/2025
+Maize,31.41,03/2025
+Maize,31.66,04/2025
+Maize,34.67,05/2025
+Maize,37.63,06/2025
+Maize,40.37,07/2025
+Maize,31.78,08/2025
+Dry chillies,53.35,01/2015
+Dry chillies,55.91,02/2015
+Dry chillies,56.49,03/2015
+Dry chillies,50.32,04/2015
+Dry chillies,47.17,05/2015
+Dry chillies,50.85,06/2015
+Dry chillies,57.21,07/2015
+Dry chillies,56.42,08/2015
+Dry chillies,59.49,09/2015
+Dry chillies,56.46,10/2015
+Dry chillies,55.43,11/2015
+Dry chillies,52.96,12/2015
+Dry chillies,60.4,01/2016
+Dry chillies,51.38,02/2016
+Dry chillies,50.43,03/2016
+Dry chillies,58.81,04/2016
+Dry chillies,49.31,05/2016
+Dry chillies,68.05,06/2016
+Dry chillies,56.38,07/2016
+Dry chillies,57.72,08/2016
+Dry chillies,51.94,09/2016
+Dry chillies,54.4,10/2016
+Dry chillies,53.85,11/2016
+Dry chillies,53.27,12/2016
+Dry chillies,59.14,01/2017
+Dry chillies,53.73,02/2017
+Dry chillies,61.07,03/2017
+Dry chillies,69.3,04/2017
+Dry chillies,54.5,05/2017
+Dry chillies,56.74,06/2017
+Dry chillies,57.88,07/2017
+Dry chillies,65.04,08/2017
+Dry chillies,55.57,09/2017
+Dry chillies,51.83,10/2017
+Dry chillies,49.65,11/2017
+Dry chillies,55.69,12/2017
+Dry chillies,53.74,01/2018
+Dry chillies,66.03,02/2018
+Dry chillies,64.83,03/2018
+Dry chillies,50.81,04/2018
+Dry chillies,52.43,05/2018
+Dry chillies,56.35,06/2018
+Dry chillies,62.97,07/2018
+Dry chillies,56.26,08/2018
+Dry chillies,52.74,09/2018
+Dry chillies,55.68,10/2018
+Dry chillies,52.84,11/2018
+Dry chillies,58.99,12/2018
+Dry chillies,52.43,01/2019
+Dry chillies,53.43,02/2019
+Dry chillies,61.79,03/2019
+Dry chillies,52.14,04/2019
+Dry chillies,48.75,05/2019
+Dry chillies,56.45,06/2019
+Dry chillies,54.18,07/2019
+Dry chillies,58.54,08/2019
+Dry chillies,57.57,09/2019
+Dry chillies,55.82,10/2019
+Dry chillies,55.67,11/2019
+Dry chillies,52.3,12/2019
+Dry chillies,56.4,01/2020
+Dry chillies,60.39,02/2020
+Dry chillies,51.11,03/2020
+Dry chillies,55.95,04/2020
+Dry chillies,61.17,05/2020
+Dry chillies,58.51,06/2020
+Dry chillies,62.53,07/2020
+Dry chillies,53.14,08/2020
+Dry chillies,46.83,09/2020
+Dry chillies,56.98,10/2020
+Dry chillies,57.79,11/2020
+Dry chillies,62.82,12/2020
+Dry chillies,61.92,01/2021
+Dry chillies,58.66,02/2021
+Dry chillies,59.81,03/2021
+Dry chillies,55.02,04/2021
+Dry chillies,49.88,05/2021
+Dry chillies,56.57,06/2021
+Dry chillies,60.89,07/2021
+Dry chillies,59.26,08/2021
+Dry chillies,60.15,09/2021
+Dry chillies,53.84,10/2021
+Dry chillies,54.65,11/2021
+Dry chillies,58.4,12/2021
+Dry chillies,53.25,01/2022
+Dry chillies,53.4,02/2022
+Dry chillies,57.47,03/2022
+Dry chillies,59.78,04/2022
+Dry chillies,54.98,05/2022
+Dry chillies,50.16,06/2022
+Dry chillies,52.3,07/2022
+Dry chillies,57.0,08/2022
+Dry chillies,56.94,09/2022
+Dry chillies,57.19,10/2022
+Dry chillies,58.59,11/2022
+Dry chillies,56.01,12/2022
+Dry chillies,57.3,01/2023
+Dry chillies,55.75,02/2023
+Dry chillies,61.72,03/2023
+Dry chillies,63.14,04/2023
+Dry chillies,50.03,05/2023
+Dry chillies,54.7,06/2023
+Dry chillies,56.14,07/2023
+Dry chillies,54.64,08/2023
+Dry chillies,64.94,09/2023
+Dry chillies,57.1,10/2023
+Dry chillies,51.95,11/2023
+Dry chillies,58.96,12/2023
+Dry chillies,57.33,01/2024
+Dry chillies,57.5,02/2024
+Dry chillies,65.02,03/2024
+Dry chillies,57.73,04/2024
+Dry chillies,54.46,05/2024
+Dry chillies,46.2,06/2024
+Dry chillies,55.15,07/2024
+Dry chillies,62.51,08/2024
+Dry chillies,55.52,09/2024
+Dry chillies,44.78,10/2024
+Dry chillies,53.49,11/2024
+Dry chillies,60.94,12/2024
+Dry chillies,58.71,01/2025
+Dry chillies,51.78,02/2025
+Dry chillies,53.15,03/2025
+Dry chillies,53.93,04/2025
+Dry chillies,52.67,05/2025
+Dry chillies,45.83,06/2025
+Dry chillies,59.8,07/2025
+Dry chillies,62.26,08/2025
+Black pepper,74.67,01/2015
+Black pepper,67.52,02/2015
+Black pepper,71.69,03/2015
+Black pepper,69.55,04/2015
+Black pepper,65.16,05/2015
+Black pepper,71.3,06/2015
+Black pepper,63.78,07/2015
+Black pepper,75.61,08/2015
+Black pepper,67.35,09/2015
+Black pepper,70.68,10/2015
+Black pepper,71.09,11/2015
+Black pepper,68.38,12/2015
+Black pepper,72.61,01/2016
+Black pepper,67.3,02/2016
+Black pepper,74.03,03/2016
+Black pepper,62.94,04/2016
+Black pepper,70.31,05/2016
+Black pepper,79.37,06/2016
+Black pepper,64.67,07/2016
+Black pepper,66.29,08/2016
+Black pepper,72.24,09/2016
+Black pepper,70.57,10/2016
+Black pepper,71.43,11/2016
+Black pepper,72.12,12/2016
+Black pepper,72.85,01/2017
+Black pepper,75.22,02/2017
+Black pepper,71.72,03/2017
+Black pepper,68.47,04/2017
+Black pepper,73.04,05/2017
+Black pepper,79.17,06/2017
+Black pepper,69.01,07/2017
+Black pepper,64.8,08/2017
+Black pepper,75.21,09/2017
+Black pepper,69.07,10/2017
+Black pepper,58.81,11/2017
+Black pepper,73.91,12/2017
+Black pepper,67.0,01/2018
+Black pepper,69.22,02/2018
+Black pepper,71.33,03/2018
+Black pepper,70.63,04/2018
+Black pepper,73.22,05/2018
+Black pepper,67.5,06/2018
+Black pepper,72.24,07/2018
+Black pepper,68.38,08/2018
+Black pepper,73.37,09/2018
+Black pepper,72.75,10/2018
+Black pepper,65.0,11/2018
+Black pepper,75.1,12/2018
+Black pepper,66.99,01/2019
+Black pepper,73.71,02/2019
+Black pepper,71.51,03/2019
+Black pepper,78.87,04/2019
+Black pepper,68.56,05/2019
+Black pepper,67.93,06/2019
+Black pepper,69.58,07/2019
+Black pepper,68.16,08/2019
+Black pepper,73.67,09/2019
+Black pepper,61.59,10/2019
+Black pepper,64.41,11/2019
+Black pepper,64.34,12/2019
+Black pepper,74.43,01/2020
+Black pepper,78.23,02/2020
+Black pepper,69.15,03/2020
+Black pepper,68.83,04/2020
+Black pepper,70.02,05/2020
+Black pepper,75.48,06/2020
+Black pepper,65.04,07/2020
+Black pepper,70.87,08/2020
+Black pepper,74.55,09/2020
+Black pepper,72.18,10/2020
+Black pepper,70.62,11/2020
+Black pepper,74.68,12/2020
+Black pepper,56.16,01/2021
+Black pepper,73.06,02/2021
+Black pepper,66.4,03/2021
+Black pepper,60.52,04/2021
+Black pepper,72.23,05/2021
+Black pepper,76.54,06/2021
+Black pepper,68.99,07/2021
+Black pepper,74.44,08/2021
+Black pepper,77.74,09/2021
+Black pepper,76.25,10/2021
+Black pepper,77.87,11/2021
+Black pepper,73.38,12/2021
+Black pepper,70.05,01/2022
+Black pepper,61.66,02/2022
+Black pepper,68.44,03/2022
+Black pepper,65.46,04/2022
+Black pepper,80.53,05/2022
+Black pepper,68.79,06/2022
+Black pepper,70.29,07/2022
+Black pepper,72.43,08/2022
+Black pepper,69.89,09/2022
+Black pepper,78.15,10/2022
+Black pepper,66.56,11/2022
+Black pepper,70.65,12/2022
+Black pepper,65.96,01/2023
+Black pepper,63.07,02/2023
+Black pepper,66.62,03/2023
+Black pepper,69.49,04/2023
+Black pepper,67.53,05/2023
+Black pepper,66.21,06/2023
+Black pepper,62.64,07/2023
+Black pepper,69.26,08/2023
+Black pepper,62.15,09/2023
+Black pepper,73.47,10/2023
+Black pepper,70.09,11/2023
+Black pepper,62.39,12/2023
+Black pepper,68.13,01/2024
+Black pepper,65.91,02/2024
+Black pepper,71.27,03/2024
+Black pepper,76.38,04/2024
+Black pepper,60.3,05/2024
+Black pepper,70.25,06/2024
+Black pepper,68.87,07/2024
+Black pepper,73.03,08/2024
+Black pepper,70.74,09/2024
+Black pepper,65.91,10/2024
+Black pepper,68.08,11/2024
+Black pepper,65.69,12/2024
+Black pepper,75.05,01/2025
+Black pepper,69.78,02/2025
+Black pepper,79.18,03/2025
+Black pepper,69.37,04/2025
+Black pepper,66.13,05/2025
+Black pepper,62.11,06/2025
+Black pepper,60.66,07/2025
+Black pepper,61.75,08/2025
+Wheat,96.47,01/2015
+Wheat,100.27,02/2015
+Wheat,97.22,03/2015
+Wheat,89.9,04/2015
+Wheat,93.33,05/2015
+Wheat,89.54,06/2015
+Wheat,89.07,07/2015
+Wheat,94.32,08/2015
+Wheat,88.45,09/2015
+Wheat,81.56,10/2015
+Wheat,88.17,11/2015
+Wheat,91.07,12/2015
+Wheat,100.22,01/2016
+Wheat,90.15,02/2016
+Wheat,95.17,03/2016
+Wheat,91.77,04/2016
+Wheat,98.74,05/2016
+Wheat,98.39,06/2016
+Wheat,98.49,07/2016
+Wheat,83.94,08/2016
+Wheat,93.64,09/2016
+Wheat,96.4,10/2016
+Wheat,94.52,11/2016
+Wheat,95.79,12/2016
+Wheat,92.9,01/2017
+Wheat,88.88,02/2017
+Wheat,84.12,03/2017
+Wheat,89.38,04/2017
+Wheat,106.0,05/2017
+Wheat,90.18,06/2017
+Wheat,82.81,07/2017
+Wheat,96.27,08/2017
+Wheat,96.89,09/2017
+Wheat,99.05,10/2017
+Wheat,94.96,11/2017
+Wheat,96.84,12/2017
+Wheat,101.81,01/2018
+Wheat,88.88,02/2018
+Wheat,87.89,03/2018
+Wheat,87.14,04/2018
+Wheat,91.28,05/2018
+Wheat,99.78,06/2018
+Wheat,95.25,07/2018
+Wheat,95.05,08/2018
+Wheat,83.51,09/2018
+Wheat,89.14,10/2018
+Wheat,83.43,11/2018
+Wheat,98.47,12/2018
+Wheat,100.54,01/2019
+Wheat,96.51,02/2019
+Wheat,87.67,03/2019
+Wheat,100.02,04/2019
+Wheat,91.34,05/2019
+Wheat,86.54,06/2019
+Wheat,87.79,07/2019
+Wheat,90.46,08/2019
+Wheat,92.86,09/2019
+Wheat,91.8,10/2019
+Wheat,85.55,11/2019
+Wheat,98.68,12/2019
+Wheat,91.86,01/2020
+Wheat,89.04,02/2020
+Wheat,98.16,03/2020
+Wheat,86.69,04/2020
+Wheat,84.46,05/2020
+Wheat,98.97,06/2020
+Wheat,102.07,07/2020
+Wheat,90.3,08/2020
+Wheat,92.38,09/2020
+Wheat,86.88,10/2020
+Wheat,92.64,11/2020
+Wheat,90.23,12/2020
+Wheat,92.1,01/2021
+Wheat,94.66,02/2021
+Wheat,87.12,03/2021
+Wheat,90.8,04/2021
+Wheat,83.59,05/2021
+Wheat,90.83,06/2021
+Wheat,92.14,07/2021
+Wheat,93.75,08/2021
+Wheat,93.81,09/2021
+Wheat,97.13,10/2021
+Wheat,84.91,11/2021
+Wheat,85.18,12/2021
+Wheat,95.25,01/2022
+Wheat,82.41,02/2022
+Wheat,93.53,03/2022
+Wheat,86.71,04/2022
+Wheat,100.47,05/2022
+Wheat,93.86,06/2022
+Wheat,91.51,07/2022
+Wheat,98.75,08/2022
+Wheat,87.29,09/2022
+Wheat,88.24,10/2022
+Wheat,86.3,11/2022
+Wheat,88.28,12/2022
+Wheat,92.91,01/2023
+Wheat,95.08,02/2023
+Wheat,97.42,03/2023
+Wheat,83.49,04/2023
+Wheat,91.75,05/2023
+Wheat,87.07,06/2023
+Wheat,91.58,07/2023
+Wheat,104.28,08/2023
+Wheat,94.07,09/2023
+Wheat,97.11,10/2023
+Wheat,102.41,11/2023
+Wheat,98.25,12/2023
+Wheat,90.37,01/2024
+Wheat,86.23,02/2024
+Wheat,92.46,03/2024
+Wheat,89.77,04/2024
+Wheat,84.99,05/2024
+Wheat,93.81,06/2024
+Wheat,93.94,07/2024
+Wheat,101.45,08/2024
+Wheat,90.8,09/2024
+Wheat,94.01,10/2024
+Wheat,89.28,11/2024
+Wheat,96.97,12/2024
+Wheat,91.99,01/2025
+Wheat,86.75,02/2025
+Wheat,92.54,03/2025
+Wheat,94.56,04/2025
+Wheat,93.89,05/2025
+Wheat,97.84,06/2025
+Wheat,85.37,07/2025
+Wheat,88.4,08/2025
+Tobacco,33.28,01/2015
+Tobacco,43.13,02/2015
+Tobacco,25.58,03/2015
+Tobacco,51.95,04/2015
+Tobacco,41.54,05/2015
+Tobacco,37.37,06/2015
+Tobacco,35.98,07/2015
+Tobacco,37.69,08/2015
+Tobacco,38.86,09/2015
+Tobacco,39.48,10/2015
+Tobacco,39.04,11/2015
+Tobacco,36.71,12/2015
+Tobacco,35.27,01/2016
+Tobacco,35.5,02/2016
+Tobacco,35.28,03/2016
+Tobacco,41.93,04/2016
+Tobacco,39.23,05/2016
+Tobacco,21.56,06/2016
+Tobacco,39.54,07/2016
+Tobacco,37.23,08/2016
+Tobacco,36.16,09/2016
+Tobacco,34.32,10/2016
+Tobacco,41.88,11/2016
+Tobacco,41.0,12/2016
+Tobacco,32.39,01/2017
+Tobacco,38.29,02/2017
+Tobacco,31.4,03/2017
+Tobacco,29.36,04/2017
+Tobacco,33.12,05/2017
+Tobacco,40.57,06/2017
+Tobacco,41.02,07/2017
+Tobacco,38.82,08/2017
+Tobacco,39.88,09/2017
+Tobacco,38.84,10/2017
+Tobacco,33.05,11/2017
+Tobacco,38.42,12/2017
+Tobacco,40.26,01/2018
+Tobacco,40.03,02/2018
+Tobacco,42.2,03/2018
+Tobacco,39.8,04/2018
+Tobacco,38.02,05/2018
+Tobacco,41.61,06/2018
+Tobacco,36.13,07/2018
+Tobacco,31.85,08/2018
+Tobacco,35.44,09/2018
+Tobacco,32.53,10/2018
+Tobacco,32.88,11/2018
+Tobacco,35.54,12/2018
+Tobacco,32.3,01/2019
+Tobacco,34.72,02/2019
+Tobacco,26.79,03/2019
+Tobacco,37.32,04/2019
+Tobacco,36.26,05/2019
+Tobacco,32.17,06/2019
+Tobacco,39.55,07/2019
+Tobacco,40.95,08/2019
+Tobacco,28.22,09/2019
+Tobacco,32.44,10/2019
+Tobacco,32.41,11/2019
+Tobacco,31.56,12/2019
+Tobacco,40.41,01/2020
+Tobacco,35.29,02/2020
+Tobacco,34.94,03/2020
+Tobacco,26.24,04/2020
+Tobacco,39.43,05/2020
+Tobacco,30.06,06/2020
+Tobacco,36.56,07/2020
+Tobacco,37.64,08/2020
+Tobacco,43.06,09/2020
+Tobacco,29.71,10/2020
+Tobacco,21.16,11/2020
+Tobacco,37.18,12/2020
+Tobacco,45.26,01/2021
+Tobacco,42.45,02/2021
+Tobacco,37.31,03/2021
+Tobacco,33.8,04/2021
+Tobacco,40.29,05/2021
+Tobacco,31.39,06/2021
+Tobacco,38.64,07/2021
+Tobacco,38.79,08/2021
+Tobacco,41.56,09/2021
+Tobacco,50.06,10/2021
+Tobacco,38.22,11/2021
+Tobacco,33.71,12/2021
+Tobacco,36.13,01/2022
+Tobacco,27.41,02/2022
+Tobacco,32.78,03/2022
+Tobacco,34.21,04/2022
+Tobacco,33.64,05/2022
+Tobacco,37.02,06/2022
+Tobacco,32.15,07/2022
+Tobacco,41.86,08/2022
+Tobacco,36.26,09/2022
+Tobacco,36.21,10/2022
+Tobacco,34.62,11/2022
+Tobacco,37.03,12/2022
+Tobacco,40.38,01/2023
+Tobacco,31.92,02/2023
+Tobacco,32.97,03/2023
+Tobacco,34.74,04/2023
+Tobacco,29.53,05/2023
+Tobacco,32.16,06/2023
+Tobacco,33.88,07/2023
+Tobacco,40.63,08/2023
+Tobacco,37.57,09/2023
+Tobacco,37.23,10/2023
+Tobacco,40.51,11/2023
+Tobacco,35.57,12/2023
+Tobacco,38.21,01/2024
+Tobacco,35.74,02/2024
+Tobacco,37.58,03/2024
+Tobacco,33.34,04/2024
+Tobacco,24.06,05/2024
+Tobacco,35.59,06/2024
+Tobacco,43.37,07/2024
+Tobacco,40.89,08/2024
+Tobacco,41.08,09/2024
+Tobacco,42.44,10/2024
+Tobacco,36.7,11/2024
+Tobacco,37.24,12/2024
+Tobacco,33.17,01/2025
+Tobacco,34.68,02/2025
+Tobacco,39.34,03/2025
+Tobacco,42.28,04/2025
+Tobacco,35.56,05/2025
+Tobacco,34.01,06/2025
+Tobacco,36.26,07/2025
+Tobacco,39.26,08/2025
+Peas & beans (Pulses),47.41,01/2015
+Peas & beans (Pulses),53.57,02/2015
+Peas & beans (Pulses),47.6,03/2015
+Peas & beans (Pulses),47.54,04/2015
+Peas & beans (Pulses),60.79,05/2015
+Peas & beans (Pulses),53.02,06/2015
+Peas & beans (Pulses),52.64,07/2015
+Peas & beans (Pulses),57.03,08/2015
+Peas & beans (Pulses),52.77,09/2015
+Peas & beans (Pulses),65.14,10/2015
+Peas & beans (Pulses),53.25,11/2015
+Peas & beans (Pulses),56.44,12/2015
+Peas & beans (Pulses),59.47,01/2016
+Peas & beans (Pulses),62.63,02/2016
+Peas & beans (Pulses),50.91,03/2016
+Peas & beans (Pulses),52.53,04/2016
+Peas & beans (Pulses),60.99,05/2016
+Peas & beans (Pulses),58.67,06/2016
+Peas & beans (Pulses),59.99,07/2016
+Peas & beans (Pulses),47.77,08/2016
+Peas & beans (Pulses),62.36,09/2016
+Peas & beans (Pulses),50.81,10/2016
+Peas & beans (Pulses),55.58,11/2016
+Peas & beans (Pulses),53.88,12/2016
+Peas & beans (Pulses),50.23,01/2017
+Peas & beans (Pulses),47.56,02/2017
+Peas & beans (Pulses),45.9,03/2017
+Peas & beans (Pulses),55.21,04/2017
+Peas & beans (Pulses),46.99,05/2017
+Peas & beans (Pulses),48.95,06/2017
+Peas & beans (Pulses),53.53,07/2017
+Peas & beans (Pulses),41.42,08/2017
+Peas & beans (Pulses),58.51,09/2017
+Peas & beans (Pulses),42.57,10/2017
+Peas & beans (Pulses),54.23,11/2017
+Peas & beans (Pulses),54.69,12/2017
+Peas & beans (Pulses),57.31,01/2018
+Peas & beans (Pulses),54.41,02/2018
+Peas & beans (Pulses),64.71,03/2018
+Peas & beans (Pulses),55.7,04/2018
+Peas & beans (Pulses),59.89,05/2018
+Peas & beans (Pulses),51.0,06/2018
+Peas & beans (Pulses),55.22,07/2018
+Peas & beans (Pulses),62.36,08/2018
+Peas & beans (Pulses),53.43,09/2018
+Peas & beans (Pulses),55.58,10/2018
+Peas & beans (Pulses),59.52,11/2018
+Peas & beans (Pulses),50.91,12/2018
+Peas & beans (Pulses),43.81,01/2019
+Peas & beans (Pulses),55.9,02/2019
+Peas & beans (Pulses),59.56,03/2019
+Peas & beans (Pulses),47.86,04/2019
+Peas & beans (Pulses),57.97,05/2019
+Peas & beans (Pulses),58.0,06/2019
+Peas & beans (Pulses),43.25,07/2019
+Peas & beans (Pulses),49.94,08/2019
+Peas & beans (Pulses),52.64,09/2019
+Peas & beans (Pulses),53.72,10/2019
+Peas & beans (Pulses),50.9,11/2019
+Peas & beans (Pulses),50.63,12/2019
+Peas & beans (Pulses),62.98,01/2020
+Peas & beans (Pulses),54.08,02/2020
+Peas & beans (Pulses),51.14,03/2020
+Peas & beans (Pulses),54.41,04/2020
+Peas & beans (Pulses),57.3,05/2020
+Peas & beans (Pulses),54.88,06/2020
+Peas & beans (Pulses),53.59,07/2020
+Peas & beans (Pulses),51.37,08/2020
+Peas & beans (Pulses),51.31,09/2020
+Peas & beans (Pulses),51.63,10/2020
+Peas & beans (Pulses),56.31,11/2020
+Peas & beans (Pulses),49.65,12/2020
+Peas & beans (Pulses),56.58,01/2021
+Peas & beans (Pulses),61.68,02/2021
+Peas & beans (Pulses),56.25,03/2021
+Peas & beans (Pulses),52.77,04/2021
+Peas & beans (Pulses),48.13,05/2021
+Peas & beans (Pulses),62.51,06/2021
+Peas & beans (Pulses),48.77,07/2021
+Peas & beans (Pulses),58.86,08/2021
+Peas & beans (Pulses),57.81,09/2021
+Peas & beans (Pulses),53.43,10/2021
+Peas & beans (Pulses),53.3,11/2021
+Peas & beans (Pulses),45.44,12/2021
+Peas & beans (Pulses),56.27,01/2022
+Peas & beans (Pulses),57.72,02/2022
+Peas & beans (Pulses),49.17,03/2022
+Peas & beans (Pulses),53.84,04/2022
+Peas & beans (Pulses),54.81,05/2022
+Peas & beans (Pulses),57.54,06/2022
+Peas & beans (Pulses),54.64,07/2022
+Peas & beans (Pulses),46.49,08/2022
+Peas & beans (Pulses),51.97,09/2022
+Peas & beans (Pulses),55.74,10/2022
+Peas & beans (Pulses),58.83,11/2022
+Peas & beans (Pulses),51.53,12/2022
+Peas & beans (Pulses),65.56,01/2023
+Peas & beans (Pulses),45.15,02/2023
+Peas & beans (Pulses),51.8,03/2023
+Peas & beans (Pulses),54.2,04/2023
+Peas & beans (Pulses),53.61,05/2023
+Peas & beans (Pulses),48.46,06/2023
+Peas & beans (Pulses),56.86,07/2023
+Peas & beans (Pulses),56.47,08/2023
+Peas & beans (Pulses),54.86,09/2023
+Peas & beans (Pulses),56.28,10/2023
+Peas & beans (Pulses),52.5,11/2023
+Peas & beans (Pulses),46.53,12/2023
+Peas & beans (Pulses),51.04,01/2024
+Peas & beans (Pulses),55.4,02/2024
+Peas & beans (Pulses),55.43,03/2024
+Peas & beans (Pulses),54.83,04/2024
+Peas & beans (Pulses),57.36,05/2024
+Peas & beans (Pulses),51.71,06/2024
+Peas & beans (Pulses),54.75,07/2024
+Peas & beans (Pulses),57.48,08/2024
+Peas & beans (Pulses),54.19,09/2024
+Peas & beans (Pulses),48.4,10/2024
+Peas & beans (Pulses),49.81,11/2024
+Peas & beans (Pulses),58.77,12/2024
+Peas & beans (Pulses),61.58,01/2025
+Peas & beans (Pulses),60.49,02/2025
+Peas & beans (Pulses),55.78,03/2025
+Peas & beans (Pulses),48.6,04/2025
+Peas & beans (Pulses),54.59,05/2025
+Peas & beans (Pulses),62.43,06/2025
+Peas & beans (Pulses),57.71,07/2025
+Peas & beans (Pulses),53.58,08/2025
+Masoor,32.04,01/2015
+Masoor,41.32,02/2015
+Masoor,42.71,03/2015
+Masoor,36.03,04/2015
+Masoor,35.94,05/2015
+Masoor,39.62,06/2015
+Masoor,36.11,07/2015
+Masoor,37.96,08/2015
+Masoor,48.79,09/2015
+Masoor,37.06,10/2015
+Masoor,36.5,11/2015
+Masoor,35.06,12/2015
+Masoor,42.02,01/2016
+Masoor,37.39,02/2016
+Masoor,35.05,03/2016
+Masoor,44.9,04/2016
+Masoor,45.39,05/2016
+Masoor,35.29,06/2016
+Masoor,28.96,07/2016
+Masoor,43.33,08/2016
+Masoor,34.87,09/2016
+Masoor,42.25,10/2016
+Masoor,28.44,11/2016
+Masoor,42.76,12/2016
+Masoor,32.24,01/2017
+Masoor,41.95,02/2017
+Masoor,38.37,03/2017
+Masoor,33.52,04/2017
+Masoor,36.26,05/2017
+Masoor,41.73,06/2017
+Masoor,38.82,07/2017
+Masoor,41.22,08/2017
+Masoor,48.18,09/2017
+Masoor,30.47,10/2017
+Masoor,46.38,11/2017
+Masoor,38.82,12/2017
+Masoor,33.8,01/2018
+Masoor,31.64,02/2018
+Masoor,37.35,03/2018
+Masoor,42.9,04/2018
+Masoor,37.66,05/2018
+Masoor,45.85,06/2018
+Masoor,31.04,07/2018
+Masoor,38.23,08/2018
+Masoor,32.03,09/2018
+Masoor,40.11,10/2018
+Masoor,42.73,11/2018
+Masoor,36.19,12/2018
+Masoor,25.27,01/2019
+Masoor,39.29,02/2019
+Masoor,40.48,03/2019
+Masoor,40.32,04/2019
+Masoor,44.47,05/2019
+Masoor,32.94,06/2019
+Masoor,41.7,07/2019
+Masoor,44.26,08/2019
+Masoor,29.4,09/2019
+Masoor,39.89,10/2019
+Masoor,35.77,11/2019
+Masoor,37.89,12/2019
+Masoor,40.03,01/2020
+Masoor,35.86,02/2020
+Masoor,34.92,03/2020
+Masoor,38.46,04/2020
+Masoor,32.86,05/2020
+Masoor,32.87,06/2020
+Masoor,41.69,07/2020
+Masoor,32.55,08/2020
+Masoor,41.63,09/2020
+Masoor,40.61,10/2020
+Masoor,29.67,11/2020
+Masoor,34.91,12/2020
+Masoor,44.26,01/2021
+Masoor,33.39,02/2021
+Masoor,35.97,03/2021
+Masoor,40.6,04/2021
+Masoor,42.21,05/2021
+Masoor,37.04,06/2021
+Masoor,35.31,07/2021
+Masoor,45.41,08/2021
+Masoor,46.99,09/2021
+Masoor,43.19,10/2021
+Masoor,38.72,11/2021
+Masoor,34.25,12/2021
+Masoor,34.14,01/2022
+Masoor,40.91,02/2022
+Masoor,40.39,03/2022
+Masoor,45.3,04/2022
+Masoor,41.55,05/2022
+Masoor,30.78,06/2022
+Masoor,43.55,07/2022
+Masoor,33.3,08/2022
+Masoor,36.37,09/2022
+Masoor,39.55,10/2022
+Masoor,48.27,11/2022
+Masoor,53.84,12/2022
+Masoor,41.33,01/2023
+Masoor,37.38,02/2023
+Masoor,40.97,03/2023
+Masoor,42.73,04/2023
+Masoor,36.69,05/2023
+Masoor,47.27,06/2023
+Masoor,39.44,07/2023
+Masoor,40.78,08/2023
+Masoor,41.62,09/2023
+Masoor,40.4,10/2023
+Masoor,42.49,11/2023
+Masoor,35.21,12/2023
+Masoor,35.5,01/2024
+Masoor,32.79,02/2024
+Masoor,40.49,03/2024
+Masoor,42.19,04/2024
+Masoor,40.58,05/2024
+Masoor,46.67,06/2024
+Masoor,38.27,07/2024
+Masoor,41.64,08/2024
+Masoor,32.84,09/2024
+Masoor,36.36,10/2024
+Masoor,41.77,11/2024
+Masoor,42.54,12/2024
+Masoor,36.82,01/2025
+Masoor,37.94,02/2025
+Masoor,30.7,03/2025
+Masoor,36.51,04/2025
+Masoor,42.75,05/2025
+Masoor,41.17,06/2025
+Masoor,40.8,07/2025
+Masoor,38.54,08/2025
+Arecanut,33.23,01/2015
+Arecanut,24.33,02/2015
+Arecanut,22.94,03/2015
+Arecanut,25.48,04/2015
+Arecanut,25.35,05/2015
+Arecanut,31.07,06/2015
+Arecanut,19.15,07/2015
+Arecanut,22.73,08/2015
+Arecanut,18.55,09/2015
+Arecanut,19.07,10/2015
+Arecanut,26.02,11/2015
+Arecanut,28.18,12/2015
+Arecanut,20.89,01/2016
+Arecanut,27.99,02/2016
+Arecanut,29.69,03/2016
+Arecanut,33.81,04/2016
+Arecanut,24.48,05/2016
+Arecanut,20.93,06/2016
+Arecanut,19.12,07/2016
+Arecanut,18.62,08/2016
+Arecanut,30.38,09/2016
+Arecanut,16.56,10/2016
+Arecanut,30.22,11/2016
+Arecanut,19.79,12/2016
+Arecanut,20.71,01/2017
+Arecanut,23.38,02/2017
+Arecanut,20.62,03/2017
+Arecanut,28.79,04/2017
+Arecanut,33.2,05/2017
+Arecanut,20.85,06/2017
+Arecanut,21.97,07/2017
+Arecanut,23.32,08/2017
+Arecanut,26.84,09/2017
+Arecanut,23.37,10/2017
+Arecanut,31.07,11/2017
+Arecanut,29.87,12/2017
+Arecanut,18.21,01/2018
+Arecanut,26.74,02/2018
+Arecanut,31.74,03/2018
+Arecanut,21.66,04/2018
+Arecanut,22.66,05/2018
+Arecanut,21.49,06/2018
+Arecanut,21.6,07/2018
+Arecanut,15.79,08/2018
+Arecanut,17.49,09/2018
+Arecanut,24.52,10/2018
+Arecanut,31.7,11/2018
+Arecanut,21.07,12/2018
+Arecanut,20.92,01/2019
+Arecanut,32.64,02/2019
+Arecanut,18.59,03/2019
+Arecanut,15.83,04/2019
+Arecanut,19.99,05/2019
+Arecanut,20.82,06/2019
+Arecanut,15.4,07/2019
+Arecanut,23.49,08/2019
+Arecanut,28.88,09/2019
+Arecanut,17.7,10/2019
+Arecanut,24.57,11/2019
+Arecanut,26.11,12/2019
+Arecanut,23.72,01/2020
+Arecanut,25.06,02/2020
+Arecanut,25.12,03/2020
+Arecanut,20.07,04/2020
+Arecanut,31.63,05/2020
+Arecanut,30.37,06/2020
+Arecanut,30.08,07/2020
+Arecanut,29.2,08/2020
+Arecanut,16.26,09/2020
+Arecanut,28.76,10/2020
+Arecanut,27.41,11/2020
+Arecanut,16.45,12/2020
+Arecanut,23.06,01/2021
+Arecanut,25.52,02/2021
+Arecanut,32.46,03/2021
+Arecanut,27.76,04/2021
+Arecanut,19.81,05/2021
+Arecanut,32.61,06/2021
+Arecanut,24.35,07/2021
+Arecanut,22.85,08/2021
+Arecanut,22.5,09/2021
+Arecanut,16.02,10/2021
+Arecanut,23.58,11/2021
+Arecanut,26.62,12/2021
+Arecanut,22.21,01/2022
+Arecanut,26.24,02/2022
+Arecanut,19.81,03/2022
+Arecanut,23.43,04/2022
+Arecanut,25.72,05/2022
+Arecanut,25.08,06/2022
+Arecanut,16.11,07/2022
+Arecanut,21.94,08/2022
+Arecanut,32.52,09/2022
+Arecanut,21.67,10/2022
+Arecanut,24.21,11/2022
+Arecanut,23.7,12/2022
+Arecanut,31.97,01/2023
+Arecanut,30.59,02/2023
+Arecanut,28.17,03/2023
+Arecanut,19.27,04/2023
+Arecanut,25.93,05/2023
+Arecanut,26.97,06/2023
+Arecanut,20.64,07/2023
+Arecanut,19.78,08/2023
+Arecanut,32.66,09/2023
+Arecanut,22.63,10/2023
+Arecanut,32.21,11/2023
+Arecanut,29.12,12/2023
+Arecanut,26.17,01/2024
+Arecanut,26.4,02/2024
+Arecanut,17.13,03/2024
+Arecanut,25.17,04/2024
+Arecanut,31.22,05/2024
+Arecanut,27.54,06/2024
+Arecanut,24.91,07/2024
+Arecanut,32.69,08/2024
+Arecanut,23.21,09/2024
+Arecanut,21.04,10/2024
+Arecanut,24.9,11/2024
+Arecanut,27.97,12/2024
+Arecanut,15.54,01/2025
+Arecanut,25.56,02/2025
+Arecanut,28.19,03/2025
+Arecanut,22.79,04/2025
+Arecanut,29.67,05/2025
+Arecanut,27.34,06/2025
+Arecanut,34.84,07/2025
+Arecanut,20.38,08/2025
+Arhar/Tur,36.84,01/2015
+Arhar/Tur,48.47,02/2015
+Arhar/Tur,49.83,03/2015
+Arhar/Tur,36.04,04/2015
+Arhar/Tur,37.12,05/2015
+Arhar/Tur,44.17,06/2015
+Arhar/Tur,37.94,07/2015
+Arhar/Tur,39.64,08/2015
+Arhar/Tur,40.0,09/2015
+Arhar/Tur,30.27,10/2015
+Arhar/Tur,39.8,11/2015
+Arhar/Tur,36.42,12/2015
+Arhar/Tur,37.41,01/2016
+Arhar/Tur,47.09,02/2016
+Arhar/Tur,33.59,03/2016
+Arhar/Tur,43.94,04/2016
+Arhar/Tur,38.48,05/2016
+Arhar/Tur,38.47,06/2016
+Arhar/Tur,43.82,07/2016
+Arhar/Tur,41.57,08/2016
+Arhar/Tur,42.72,09/2016
+Arhar/Tur,44.71,10/2016
+Arhar/Tur,38.21,11/2016
+Arhar/Tur,36.81,12/2016
+Arhar/Tur,34.44,01/2017
+Arhar/Tur,35.74,02/2017
+Arhar/Tur,54.62,03/2017
+Arhar/Tur,46.09,04/2017
+Arhar/Tur,33.12,05/2017
+Arhar/Tur,33.26,06/2017
+Arhar/Tur,42.28,07/2017
+Arhar/Tur,42.61,08/2017
+Arhar/Tur,42.62,09/2017
+Arhar/Tur,38.6,10/2017
+Arhar/Tur,39.24,11/2017
+Arhar/Tur,41.51,12/2017
+Arhar/Tur,40.3,01/2018
+Arhar/Tur,28.77,02/2018
+Arhar/Tur,38.72,03/2018
+Arhar/Tur,35.61,04/2018
+Arhar/Tur,40.75,05/2018
+Arhar/Tur,54.8,06/2018
+Arhar/Tur,41.71,07/2018
+Arhar/Tur,38.3,08/2018
+Arhar/Tur,44.48,09/2018
+Arhar/Tur,42.28,10/2018
+Arhar/Tur,41.97,11/2018
+Arhar/Tur,42.9,12/2018
+Arhar/Tur,50.15,01/2019
+Arhar/Tur,34.22,02/2019
+Arhar/Tur,42.24,03/2019
+Arhar/Tur,35.24,04/2019
+Arhar/Tur,42.65,05/2019
+Arhar/Tur,35.28,06/2019
+Arhar/Tur,37.78,07/2019
+Arhar/Tur,38.4,08/2019
+Arhar/Tur,44.75,09/2019
+Arhar/Tur,44.46,10/2019
+Arhar/Tur,33.64,11/2019
+Arhar/Tur,40.15,12/2019
+Arhar/Tur,36.32,01/2020
+Arhar/Tur,33.58,02/2020
+Arhar/Tur,38.79,03/2020
+Arhar/Tur,38.33,04/2020
+Arhar/Tur,52.0,05/2020
+Arhar/Tur,42.04,06/2020
+Arhar/Tur,32.98,07/2020
+Arhar/Tur,37.05,08/2020
+Arhar/Tur,44.98,09/2020
+Arhar/Tur,50.31,10/2020
+Arhar/Tur,31.94,11/2020
+Arhar/Tur,30.47,12/2020
+Arhar/Tur,49.23,01/2021
+Arhar/Tur,41.82,02/2021
+Arhar/Tur,35.53,03/2021
+Arhar/Tur,42.54,04/2021
+Arhar/Tur,26.69,05/2021
+Arhar/Tur,39.89,06/2021
+Arhar/Tur,41.51,07/2021
+Arhar/Tur,44.49,08/2021
+Arhar/Tur,34.8,09/2021
+Arhar/Tur,40.3,10/2021
+Arhar/Tur,35.24,11/2021
+Arhar/Tur,41.15,12/2021
+Arhar/Tur,35.39,01/2022
+Arhar/Tur,37.83,02/2022
+Arhar/Tur,34.89,03/2022
+Arhar/Tur,43.13,04/2022
+Arhar/Tur,44.16,05/2022
+Arhar/Tur,38.7,06/2022
+Arhar/Tur,40.06,07/2022
+Arhar/Tur,32.63,08/2022
+Arhar/Tur,38.37,09/2022
+Arhar/Tur,39.62,10/2022
+Arhar/Tur,52.97,11/2022
+Arhar/Tur,34.31,12/2022
+Arhar/Tur,47.19,01/2023
+Arhar/Tur,44.85,02/2023
+Arhar/Tur,41.27,03/2023
+Arhar/Tur,48.66,04/2023
+Arhar/Tur,41.73,05/2023
+Arhar/Tur,41.82,06/2023
+Arhar/Tur,39.61,07/2023
+Arhar/Tur,45.99,08/2023
+Arhar/Tur,45.35,09/2023
+Arhar/Tur,36.74,10/2023
+Arhar/Tur,33.27,11/2023
+Arhar/Tur,38.86,12/2023
+Arhar/Tur,35.87,01/2024
+Arhar/Tur,39.55,02/2024
+Arhar/Tur,46.06,03/2024
+Arhar/Tur,37.58,04/2024
+Arhar/Tur,39.66,05/2024
+Arhar/Tur,40.16,06/2024
+Arhar/Tur,44.11,07/2024
+Arhar/Tur,28.64,08/2024
+Arhar/Tur,36.84,09/2024
+Arhar/Tur,40.93,10/2024
+Arhar/Tur,45.87,11/2024
+Arhar/Tur,37.41,12/2024
+Arhar/Tur,30.49,01/2025
+Arhar/Tur,42.97,02/2025
+Arhar/Tur,36.69,03/2025
+Arhar/Tur,33.92,04/2025
+Arhar/Tur,36.75,05/2025
+Arhar/Tur,38.95,06/2025
+Arhar/Tur,36.85,07/2025
+Arhar/Tur,28.84,08/2025
+Sesamum,84.27,01/2015
+Sesamum,82.66,02/2015
+Sesamum,76.77,03/2015
+Sesamum,88.37,04/2015
+Sesamum,79.16,05/2015
+Sesamum,85.38,06/2015
+Sesamum,84.8,07/2015
+Sesamum,79.89,08/2015
+Sesamum,81.57,09/2015
+Sesamum,80.94,10/2015
+Sesamum,72.1,11/2015
+Sesamum,78.11,12/2015
+Sesamum,83.19,01/2016
+Sesamum,85.45,02/2016
+Sesamum,74.22,03/2016
+Sesamum,80.46,04/2016
+Sesamum,78.57,05/2016
+Sesamum,77.23,06/2016
+Sesamum,79.6,07/2016
+Sesamum,78.91,08/2016
+Sesamum,80.53,09/2016
+Sesamum,85.03,10/2016
+Sesamum,81.74,11/2016
+Sesamum,79.37,12/2016
+Sesamum,87.14,01/2017
+Sesamum,83.37,02/2017
+Sesamum,77.36,03/2017
+Sesamum,71.73,04/2017
+Sesamum,72.88,05/2017
+Sesamum,82.49,06/2017
+Sesamum,74.67,07/2017
+Sesamum,72.78,08/2017
+Sesamum,74.03,09/2017
+Sesamum,74.38,10/2017
+Sesamum,82.07,11/2017
+Sesamum,77.04,12/2017
+Sesamum,70.96,01/2018
+Sesamum,77.97,02/2018
+Sesamum,78.93,03/2018
+Sesamum,75.42,04/2018
+Sesamum,83.6,05/2018
+Sesamum,75.71,06/2018
+Sesamum,83.36,07/2018
+Sesamum,80.8,08/2018
+Sesamum,82.45,09/2018
+Sesamum,72.33,10/2018
+Sesamum,78.31,11/2018
+Sesamum,77.55,12/2018
+Sesamum,70.71,01/2019
+Sesamum,83.34,02/2019
+Sesamum,73.73,03/2019
+Sesamum,74.77,04/2019
+Sesamum,72.75,05/2019
+Sesamum,81.32,06/2019
+Sesamum,70.19,07/2019
+Sesamum,80.91,08/2019
+Sesamum,83.04,09/2019
+Sesamum,80.5,10/2019
+Sesamum,81.38,11/2019
+Sesamum,81.62,12/2019
+Sesamum,73.07,01/2020
+Sesamum,84.99,02/2020
+Sesamum,75.52,03/2020
+Sesamum,77.49,04/2020
+Sesamum,76.16,05/2020
+Sesamum,80.28,06/2020
+Sesamum,75.13,07/2020
+Sesamum,78.15,08/2020
+Sesamum,71.64,09/2020
+Sesamum,83.64,10/2020
+Sesamum,81.17,11/2020
+Sesamum,76.36,12/2020
+Sesamum,75.47,01/2021
+Sesamum,81.04,02/2021
+Sesamum,74.28,03/2021
+Sesamum,78.45,04/2021
+Sesamum,83.63,05/2021
+Sesamum,73.76,06/2021
+Sesamum,79.66,07/2021
+Sesamum,79.4,08/2021
+Sesamum,77.33,09/2021
+Sesamum,75.3,10/2021
+Sesamum,83.89,11/2021
+Sesamum,74.83,12/2021
+Sesamum,68.76,01/2022
+Sesamum,81.02,02/2022
+Sesamum,71.81,03/2022
+Sesamum,81.28,04/2022
+Sesamum,84.49,05/2022
+Sesamum,80.97,06/2022
+Sesamum,83.18,07/2022
+Sesamum,87.92,08/2022
+Sesamum,82.65,09/2022
+Sesamum,79.47,10/2022
+Sesamum,85.99,11/2022
+Sesamum,86.59,12/2022
+Sesamum,86.66,01/2023
+Sesamum,75.36,02/2023
+Sesamum,71.05,03/2023
+Sesamum,75.05,04/2023
+Sesamum,81.34,05/2023
+Sesamum,78.61,06/2023
+Sesamum,76.79,07/2023
+Sesamum,80.62,08/2023
+Sesamum,70.46,09/2023
+Sesamum,78.52,10/2023
+Sesamum,83.41,11/2023
+Sesamum,80.57,12/2023
+Sesamum,81.28,01/2024
+Sesamum,85.81,02/2024
+Sesamum,77.49,03/2024
+Sesamum,74.55,04/2024
+Sesamum,83.77,05/2024
+Sesamum,83.67,06/2024
+Sesamum,80.61,07/2024
+Sesamum,77.02,08/2024
+Sesamum,77.83,09/2024
+Sesamum,71.44,10/2024
+Sesamum,83.38,11/2024
+Sesamum,83.21,12/2024
+Sesamum,71.26,01/2025
+Sesamum,82.16,02/2025
+Sesamum,79.84,03/2025
+Sesamum,72.71,04/2025
+Sesamum,71.79,05/2025
+Sesamum,79.69,06/2025
+Sesamum,75.83,07/2025
+Sesamum,86.92,08/2025
+Rapeseed &Mustard,71.75,01/2015
+Rapeseed &Mustard,75.13,02/2015
+Rapeseed &Mustard,81.19,03/2015
+Rapeseed &Mustard,77.69,04/2015
+Rapeseed &Mustard,75.5,05/2015
+Rapeseed &Mustard,75.74,06/2015
+Rapeseed &Mustard,73.64,07/2015
+Rapeseed &Mustard,76.21,08/2015
+Rapeseed &Mustard,60.77,09/2015
+Rapeseed &Mustard,71.94,10/2015
+Rapeseed &Mustard,74.63,11/2015
+Rapeseed &Mustard,67.67,12/2015
+Rapeseed &Mustard,75.35,01/2016
+Rapeseed &Mustard,72.4,02/2016
+Rapeseed &Mustard,82.2,03/2016
+Rapeseed &Mustard,81.29,04/2016
+Rapeseed &Mustard,71.09,05/2016
+Rapeseed &Mustard,72.67,06/2016
+Rapeseed &Mustard,73.05,07/2016
+Rapeseed &Mustard,71.16,08/2016
+Rapeseed &Mustard,74.4,09/2016
+Rapeseed &Mustard,69.63,10/2016
+Rapeseed &Mustard,67.77,11/2016
+Rapeseed &Mustard,76.53,12/2016
+Rapeseed &Mustard,76.57,01/2017
+Rapeseed &Mustard,69.4,02/2017
+Rapeseed &Mustard,77.9,03/2017
+Rapeseed &Mustard,70.26,04/2017
+Rapeseed &Mustard,74.69,05/2017
+Rapeseed &Mustard,77.52,06/2017
+Rapeseed &Mustard,73.25,07/2017
+Rapeseed &Mustard,75.69,08/2017
+Rapeseed &Mustard,70.84,09/2017
+Rapeseed &Mustard,72.44,10/2017
+Rapeseed &Mustard,72.39,11/2017
+Rapeseed &Mustard,69.69,12/2017
+Rapeseed &Mustard,72.54,01/2018
+Rapeseed &Mustard,65.68,02/2018
+Rapeseed &Mustard,70.97,03/2018
+Rapeseed &Mustard,72.0,04/2018
+Rapeseed &Mustard,72.14,05/2018
+Rapeseed &Mustard,72.21,06/2018
+Rapeseed &Mustard,73.11,07/2018
+Rapeseed &Mustard,75.82,08/2018
+Rapeseed &Mustard,77.79,09/2018
+Rapeseed &Mustard,70.17,10/2018
+Rapeseed &Mustard,67.4,11/2018
+Rapeseed &Mustard,68.21,12/2018
+Rapeseed &Mustard,70.98,01/2019
+Rapeseed &Mustard,71.66,02/2019
+Rapeseed &Mustard,69.57,03/2019
+Rapeseed &Mustard,66.94,04/2019
+Rapeseed &Mustard,71.14,05/2019
+Rapeseed &Mustard,74.33,06/2019
+Rapeseed &Mustard,76.4,07/2019
+Rapeseed &Mustard,70.63,08/2019
+Rapeseed &Mustard,71.36,09/2019
+Rapeseed &Mustard,68.79,10/2019
+Rapeseed &Mustard,73.26,11/2019
+Rapeseed &Mustard,69.18,12/2019
+Rapeseed &Mustard,76.29,01/2020
+Rapeseed &Mustard,64.49,02/2020
+Rapeseed &Mustard,71.62,03/2020
+Rapeseed &Mustard,74.93,04/2020
+Rapeseed &Mustard,74.34,05/2020
+Rapeseed &Mustard,86.89,06/2020
+Rapeseed &Mustard,75.17,07/2020
+Rapeseed &Mustard,68.4,08/2020
+Rapeseed &Mustard,72.94,09/2020
+Rapeseed &Mustard,64.54,10/2020
+Rapeseed &Mustard,73.02,11/2020
+Rapeseed &Mustard,69.26,12/2020
+Rapeseed &Mustard,78.0,01/2021
+Rapeseed &Mustard,70.67,02/2021
+Rapeseed &Mustard,72.84,03/2021
+Rapeseed &Mustard,70.24,04/2021
+Rapeseed &Mustard,82.12,05/2021
+Rapeseed &Mustard,71.81,06/2021
+Rapeseed &Mustard,82.58,07/2021
+Rapeseed &Mustard,77.49,08/2021
+Rapeseed &Mustard,75.83,09/2021
+Rapeseed &Mustard,75.26,10/2021
+Rapeseed &Mustard,75.39,11/2021
+Rapeseed &Mustard,63.78,12/2021
+Rapeseed &Mustard,72.03,01/2022
+Rapeseed &Mustard,77.65,02/2022
+Rapeseed &Mustard,73.18,03/2022
+Rapeseed &Mustard,66.39,04/2022
+Rapeseed &Mustard,73.16,05/2022
+Rapeseed &Mustard,81.94,06/2022
+Rapeseed &Mustard,79.66,07/2022
+Rapeseed &Mustard,73.11,08/2022
+Rapeseed &Mustard,78.18,09/2022
+Rapeseed &Mustard,71.59,10/2022
+Rapeseed &Mustard,64.9,11/2022
+Rapeseed &Mustard,68.8,12/2022
+Rapeseed &Mustard,81.24,01/2023
+Rapeseed &Mustard,72.05,02/2023
+Rapeseed &Mustard,72.2,03/2023
+Rapeseed &Mustard,71.92,04/2023
+Rapeseed &Mustard,82.94,05/2023
+Rapeseed &Mustard,81.55,06/2023
+Rapeseed &Mustard,84.51,07/2023
+Rapeseed &Mustard,72.63,08/2023
+Rapeseed &Mustard,74.9,09/2023
+Rapeseed &Mustard,65.84,10/2023
+Rapeseed &Mustard,80.81,11/2023
+Rapeseed &Mustard,67.58,12/2023
+Rapeseed &Mustard,74.5,01/2024
+Rapeseed &Mustard,67.93,02/2024
+Rapeseed &Mustard,70.48,03/2024
+Rapeseed &Mustard,69.23,04/2024
+Rapeseed &Mustard,70.38,05/2024
+Rapeseed &Mustard,70.73,06/2024
+Rapeseed &Mustard,70.68,07/2024
+Rapeseed &Mustard,77.59,08/2024
+Rapeseed &Mustard,67.9,09/2024
+Rapeseed &Mustard,74.52,10/2024
+Rapeseed &Mustard,79.51,11/2024
+Rapeseed &Mustard,70.85,12/2024
+Rapeseed &Mustard,69.83,01/2025
+Rapeseed &Mustard,72.27,02/2025
+Rapeseed &Mustard,79.32,03/2025
+Rapeseed &Mustard,74.39,04/2025
+Rapeseed &Mustard,70.76,05/2025
+Rapeseed &Mustard,75.84,06/2025
+Rapeseed &Mustard,67.91,07/2025
+Rapeseed &Mustard,76.83,08/2025
+Small millets,35.65,01/2015
+Small millets,40.15,02/2015
+Small millets,38.94,03/2015
+Small millets,39.33,04/2015
+Small millets,44.23,05/2015
+Small millets,40.9,06/2015
+Small millets,36.75,07/2015
+Small millets,31.54,08/2015
+Small millets,33.88,09/2015
+Small millets,36.15,10/2015
+Small millets,41.6,11/2015
+Small millets,37.32,12/2015
+Small millets,34.18,01/2016
+Small millets,33.79,02/2016
+Small millets,37.11,03/2016
+Small millets,41.91,04/2016
+Small millets,45.41,05/2016
+Small millets,36.43,06/2016
+Small millets,37.23,07/2016
+Small millets,31.39,08/2016
+Small millets,47.15,09/2016
+Small millets,30.45,10/2016
+Small millets,43.31,11/2016
+Small millets,35.63,12/2016
+Small millets,34.46,01/2017
+Small millets,31.91,02/2017
+Small millets,49.51,03/2017
+Small millets,38.56,04/2017
+Small millets,37.56,05/2017
+Small millets,41.89,06/2017
+Small millets,34.2,07/2017
+Small millets,37.47,08/2017
+Small millets,37.74,09/2017
+Small millets,34.9,10/2017
+Small millets,43.45,11/2017
+Small millets,36.36,12/2017
+Small millets,29.69,01/2018
+Small millets,35.95,02/2018
+Small millets,38.7,03/2018
+Small millets,32.99,04/2018
+Small millets,33.38,05/2018
+Small millets,34.73,06/2018
+Small millets,43.56,07/2018
+Small millets,35.02,08/2018
+Small millets,44.6,09/2018
+Small millets,34.38,10/2018
+Small millets,39.08,11/2018
+Small millets,35.23,12/2018
+Small millets,41.23,01/2019
+Small millets,31.87,02/2019
+Small millets,41.17,03/2019
+Small millets,38.03,04/2019
+Small millets,34.26,05/2019
+Small millets,36.63,06/2019
+Small millets,45.13,07/2019
+Small millets,38.15,08/2019
+Small millets,33.94,09/2019
+Small millets,31.43,10/2019
+Small millets,39.98,11/2019
+Small millets,38.44,12/2019
+Small millets,40.93,01/2020
+Small millets,30.15,02/2020
+Small millets,31.6,03/2020
+Small millets,43.19,04/2020
+Small millets,39.11,05/2020
+Small millets,40.12,06/2020
+Small millets,32.64,07/2020
+Small millets,32.55,08/2020
+Small millets,42.41,09/2020
+Small millets,42.65,10/2020
+Small millets,32.02,11/2020
+Small millets,31.06,12/2020
+Small millets,36.91,01/2021
+Small millets,33.46,02/2021
+Small millets,33.36,03/2021
+Small millets,31.2,04/2021
+Small millets,35.11,05/2021
+Small millets,31.68,06/2021
+Small millets,31.98,07/2021
+Small millets,38.95,08/2021
+Small millets,37.18,09/2021
+Small millets,39.88,10/2021
+Small millets,29.21,11/2021
+Small millets,37.51,12/2021
+Small millets,47.83,01/2022
+Small millets,35.6,02/2022
+Small millets,41.58,03/2022
+Small millets,41.54,04/2022
+Small millets,41.78,05/2022
+Small millets,38.29,06/2022
+Small millets,40.29,07/2022
+Small millets,40.95,08/2022
+Small millets,40.63,09/2022
+Small millets,31.87,10/2022
+Small millets,28.92,11/2022
+Small millets,29.69,12/2022
+Small millets,36.11,01/2023
+Small millets,40.43,02/2023
+Small millets,31.93,03/2023
+Small millets,42.08,04/2023
+Small millets,34.95,05/2023
+Small millets,34.99,06/2023
+Small millets,33.28,07/2023
+Small millets,28.03,08/2023
+Small millets,38.6,09/2023
+Small millets,46.02,10/2023
+Small millets,37.14,11/2023
+Small millets,28.2,12/2023
+Small millets,41.36,01/2024
+Small millets,29.33,02/2024
+Small millets,31.41,03/2024
+Small millets,36.26,04/2024
+Small millets,38.07,05/2024
+Small millets,32.41,06/2024
+Small millets,36.07,07/2024
+Small millets,41.03,08/2024
+Small millets,41.72,09/2024
+Small millets,43.71,10/2024
+Small millets,47.0,11/2024
+Small millets,41.51,12/2024
+Small millets,36.37,01/2025
+Small millets,41.75,02/2025
+Small millets,39.79,03/2025
+Small millets,39.99,04/2025
+Small millets,38.34,05/2025
+Small millets,32.9,06/2025
+Small millets,32.32,07/2025
+Small millets,36.97,08/2025
+Gram,106.03,01/2015
+Gram,101.46,02/2015
+Gram,98.81,03/2015
+Gram,97.38,04/2015
+Gram,93.69,05/2015
+Gram,98.83,06/2015
+Gram,99.73,07/2015
+Gram,92.24,08/2015
+Gram,100.12,09/2015
+Gram,97.67,10/2015
+Gram,88.91,11/2015
+Gram,94.14,12/2015
+Gram,96.38,01/2016
+Gram,107.88,02/2016
+Gram,101.23,03/2016
+Gram,91.77,04/2016
+Gram,100.88,05/2016
+Gram,90.71,06/2016
+Gram,103.86,07/2016
+Gram,96.09,08/2016
+Gram,97.98,09/2016
+Gram,105.07,10/2016
+Gram,92.01,11/2016
+Gram,91.46,12/2016
+Gram,95.53,01/2017
+Gram,103.64,02/2017
+Gram,90.85,03/2017
+Gram,84.28,04/2017
+Gram,96.19,05/2017
+Gram,101.2,06/2017
+Gram,104.45,07/2017
+Gram,96.13,08/2017
+Gram,96.39,09/2017
+Gram,104.21,10/2017
+Gram,89.1,11/2017
+Gram,96.5,12/2017
+Gram,99.4,01/2018
+Gram,100.69,02/2018
+Gram,95.9,03/2018
+Gram,98.62,04/2018
+Gram,86.0,05/2018
+Gram,95.15,06/2018
+Gram,100.71,07/2018
+Gram,93.53,08/2018
+Gram,98.74,09/2018
+Gram,100.68,10/2018
+Gram,96.73,11/2018
+Gram,99.3,12/2018
+Gram,93.63,01/2019
+Gram,97.41,02/2019
+Gram,101.5,03/2019
+Gram,99.23,04/2019
+Gram,95.51,05/2019
+Gram,99.57,06/2019
+Gram,102.02,07/2019
+Gram,88.2,08/2019
+Gram,104.24,09/2019
+Gram,96.76,10/2019
+Gram,100.57,11/2019
+Gram,104.43,12/2019
+Gram,91.59,01/2020
+Gram,94.9,02/2020
+Gram,97.0,03/2020
+Gram,94.53,04/2020
+Gram,107.12,05/2020
+Gram,94.16,06/2020
+Gram,95.67,07/2020
+Gram,99.47,08/2020
+Gram,92.43,09/2020
+Gram,96.47,10/2020
+Gram,100.03,11/2020
+Gram,96.78,12/2020
+Gram,97.98,01/2021
+Gram,95.8,02/2021
+Gram,90.87,03/2021
+Gram,100.05,04/2021
+Gram,107.22,05/2021
+Gram,98.54,06/2021
+Gram,99.57,07/2021
+Gram,101.91,08/2021
+Gram,92.1,09/2021
+Gram,106.96,10/2021
+Gram,99.46,11/2021
+Gram,106.6,12/2021
+Gram,94.78,01/2022
+Gram,107.54,02/2022
+Gram,102.32,03/2022
+Gram,101.21,04/2022
+Gram,99.62,05/2022
+Gram,97.2,06/2022
+Gram,104.45,07/2022
+Gram,99.15,08/2022
+Gram,88.61,09/2022
+Gram,92.86,10/2022
+Gram,97.52,11/2022
+Gram,100.0,12/2022
+Gram,98.16,01/2023
+Gram,104.54,02/2023
+Gram,88.69,03/2023
+Gram,99.16,04/2023
+Gram,89.36,05/2023
+Gram,102.24,06/2023
+Gram,97.97,07/2023
+Gram,100.54,08/2023
+Gram,94.13,09/2023
+Gram,104.84,10/2023
+Gram,103.65,11/2023
+Gram,101.36,12/2023
+Gram,97.8,01/2024
+Gram,101.34,02/2024
+Gram,94.91,03/2024
+Gram,102.72,04/2024
+Gram,106.69,05/2024
+Gram,103.8,06/2024
+Gram,94.8,07/2024
+Gram,100.25,08/2024
+Gram,91.98,09/2024
+Gram,101.31,10/2024
+Gram,100.7,11/2024
+Gram,89.1,12/2024
+Gram,92.64,01/2025
+Gram,97.03,02/2025
+Gram,96.94,03/2025
+Gram,92.4,04/2025
+Gram,100.39,05/2025
+Gram,99.7,06/2025
+Gram,97.47,07/2025
+Gram,94.67,08/2025
+Moong(Green Gram),22.36,01/2015
+Moong(Green Gram),29.74,02/2015
+Moong(Green Gram),26.15,03/2015
+Moong(Green Gram),25.48,04/2015
+Moong(Green Gram),25.05,05/2015
+Moong(Green Gram),27.49,06/2015
+Moong(Green Gram),28.44,07/2015
+Moong(Green Gram),25.42,08/2015
+Moong(Green Gram),26.23,09/2015
+Moong(Green Gram),27.61,10/2015
+Moong(Green Gram),27.11,11/2015
+Moong(Green Gram),28.18,12/2015
+Moong(Green Gram),24.64,01/2016
+Moong(Green Gram),33.04,02/2016
+Moong(Green Gram),28.5,03/2016
+Moong(Green Gram),25.5,04/2016
+Moong(Green Gram),29.74,05/2016
+Moong(Green Gram),27.65,06/2016
+Moong(Green Gram),19.35,07/2016
+Moong(Green Gram),29.72,08/2016
+Moong(Green Gram),22.92,09/2016
+Moong(Green Gram),32.69,10/2016
+Moong(Green Gram),26.81,11/2016
+Moong(Green Gram),31.92,12/2016
+Moong(Green Gram),24.87,01/2017
+Moong(Green Gram),28.37,02/2017
+Moong(Green Gram),34.07,03/2017
+Moong(Green Gram),26.67,04/2017
+Moong(Green Gram),25.07,05/2017
+Moong(Green Gram),31.29,06/2017
+Moong(Green Gram),31.2,07/2017
+Moong(Green Gram),25.28,08/2017
+Moong(Green Gram),18.09,09/2017
+Moong(Green Gram),24.97,10/2017
+Moong(Green Gram),31.41,11/2017
+Moong(Green Gram),24.14,12/2017
+Moong(Green Gram),27.96,01/2018
+Moong(Green Gram),24.73,02/2018
+Moong(Green Gram),18.36,03/2018
+Moong(Green Gram),24.64,04/2018
+Moong(Green Gram),31.39,05/2018
+Moong(Green Gram),16.17,06/2018
+Moong(Green Gram),29.28,07/2018
+Moong(Green Gram),22.09,08/2018
+Moong(Green Gram),31.06,09/2018
+Moong(Green Gram),31.59,10/2018
+Moong(Green Gram),27.16,11/2018
+Moong(Green Gram),27.17,12/2018
+Moong(Green Gram),23.99,01/2019
+Moong(Green Gram),21.29,02/2019
+Moong(Green Gram),36.51,03/2019
+Moong(Green Gram),23.69,04/2019
+Moong(Green Gram),35.86,05/2019
+Moong(Green Gram),23.72,06/2019
+Moong(Green Gram),30.65,07/2019
+Moong(Green Gram),22.33,08/2019
+Moong(Green Gram),30.64,09/2019
+Moong(Green Gram),26.39,10/2019
+Moong(Green Gram),26.46,11/2019
+Moong(Green Gram),31.07,12/2019
+Moong(Green Gram),25.67,01/2020
+Moong(Green Gram),20.88,02/2020
+Moong(Green Gram),31.83,03/2020
+Moong(Green Gram),22.29,04/2020
+Moong(Green Gram),30.6,05/2020
+Moong(Green Gram),32.88,06/2020
+Moong(Green Gram),26.14,07/2020
+Moong(Green Gram),33.93,08/2020
+Moong(Green Gram),30.43,09/2020
+Moong(Green Gram),24.54,10/2020
+Moong(Green Gram),35.03,11/2020
+Moong(Green Gram),22.31,12/2020
+Moong(Green Gram),26.14,01/2021
+Moong(Green Gram),26.99,02/2021
+Moong(Green Gram),31.05,03/2021
+Moong(Green Gram),33.6,04/2021
+Moong(Green Gram),33.28,05/2021
+Moong(Green Gram),29.14,06/2021
+Moong(Green Gram),26.62,07/2021
+Moong(Green Gram),18.89,08/2021
+Moong(Green Gram),21.45,09/2021
+Moong(Green Gram),36.85,10/2021
+Moong(Green Gram),18.84,11/2021
+Moong(Green Gram),24.1,12/2021
+Moong(Green Gram),33.74,01/2022
+Moong(Green Gram),29.07,02/2022
+Moong(Green Gram),32.66,03/2022
+Moong(Green Gram),30.73,04/2022
+Moong(Green Gram),35.37,05/2022
+Moong(Green Gram),29.5,06/2022
+Moong(Green Gram),31.34,07/2022
+Moong(Green Gram),24.4,08/2022
+Moong(Green Gram),30.95,09/2022
+Moong(Green Gram),26.04,10/2022
+Moong(Green Gram),25.75,11/2022
+Moong(Green Gram),32.49,12/2022
+Moong(Green Gram),32.53,01/2023
+Moong(Green Gram),36.46,02/2023
+Moong(Green Gram),36.14,03/2023
+Moong(Green Gram),32.61,04/2023
+Moong(Green Gram),19.42,05/2023
+Moong(Green Gram),37.16,06/2023
+Moong(Green Gram),32.61,07/2023
+Moong(Green Gram),24.19,08/2023
+Moong(Green Gram),31.66,09/2023
+Moong(Green Gram),22.83,10/2023
+Moong(Green Gram),31.11,11/2023
+Moong(Green Gram),21.44,12/2023
+Moong(Green Gram),23.98,01/2024
+Moong(Green Gram),31.57,02/2024
+Moong(Green Gram),33.38,03/2024
+Moong(Green Gram),29.65,04/2024
+Moong(Green Gram),26.59,05/2024
+Moong(Green Gram),17.45,06/2024
+Moong(Green Gram),26.97,07/2024
+Moong(Green Gram),30.69,08/2024
+Moong(Green Gram),26.44,09/2024
+Moong(Green Gram),27.91,10/2024
+Moong(Green Gram),27.09,11/2024
+Moong(Green Gram),26.41,12/2024
+Moong(Green Gram),28.4,01/2025
+Moong(Green Gram),26.66,02/2025
+Moong(Green Gram),35.24,03/2025
+Moong(Green Gram),16.99,04/2025
+Moong(Green Gram),25.29,05/2025
+Moong(Green Gram),23.67,06/2025
+Moong(Green Gram),29.12,07/2025
+Moong(Green Gram),28.41,08/2025
+Linseed,24.96,01/2015
+Linseed,28.72,02/2015
+Linseed,24.1,03/2015
+Linseed,38.38,04/2015
+Linseed,15.69,05/2015
+Linseed,29.33,06/2015
+Linseed,23.17,07/2015
+Linseed,27.89,08/2015
+Linseed,26.24,09/2015
+Linseed,20.37,10/2015
+Linseed,25.18,11/2015
+Linseed,14.74,12/2015
+Linseed,27.05,01/2016
+Linseed,25.52,02/2016
+Linseed,27.23,03/2016
+Linseed,29.32,04/2016
+Linseed,25.87,05/2016
+Linseed,24.77,06/2016
+Linseed,19.63,07/2016
+Linseed,20.47,08/2016
+Linseed,29.97,09/2016
+Linseed,31.22,10/2016
+Linseed,22.84,11/2016
+Linseed,24.26,12/2016
+Linseed,19.51,01/2017
+Linseed,29.9,02/2017
+Linseed,27.36,03/2017
+Linseed,33.74,04/2017
+Linseed,19.64,05/2017
+Linseed,22.14,06/2017
+Linseed,25.19,07/2017
+Linseed,27.27,08/2017
+Linseed,22.96,09/2017
+Linseed,19.67,10/2017
+Linseed,28.44,11/2017
+Linseed,27.64,12/2017
+Linseed,19.45,01/2018
+Linseed,30.81,02/2018
+Linseed,29.88,03/2018
+Linseed,24.7,04/2018
+Linseed,24.43,05/2018
+Linseed,26.8,06/2018
+Linseed,19.72,07/2018
+Linseed,24.18,08/2018
+Linseed,13.27,09/2018
+Linseed,28.42,10/2018
+Linseed,16.23,11/2018
+Linseed,31.55,12/2018
+Linseed,22.38,01/2019
+Linseed,22.98,02/2019
+Linseed,20.89,03/2019
+Linseed,22.59,04/2019
+Linseed,31.13,05/2019
+Linseed,11.59,06/2019
+Linseed,30.42,07/2019
+Linseed,25.72,08/2019
+Linseed,18.0,09/2019
+Linseed,18.66,10/2019
+Linseed,32.42,11/2019
+Linseed,19.31,12/2019
+Linseed,18.27,01/2020
+Linseed,29.72,02/2020
+Linseed,25.73,03/2020
+Linseed,19.34,04/2020
+Linseed,25.12,05/2020
+Linseed,18.9,06/2020
+Linseed,29.54,07/2020
+Linseed,29.34,08/2020
+Linseed,26.69,09/2020
+Linseed,25.84,10/2020
+Linseed,32.84,11/2020
+Linseed,24.03,12/2020
+Linseed,18.12,01/2021
+Linseed,26.28,02/2021
+Linseed,34.46,03/2021
+Linseed,18.96,04/2021
+Linseed,22.23,05/2021
+Linseed,26.12,06/2021
+Linseed,23.76,07/2021
+Linseed,19.12,08/2021
+Linseed,29.64,09/2021
+Linseed,35.63,10/2021
+Linseed,25.01,11/2021
+Linseed,19.51,12/2021
+Linseed,16.29,01/2022
+Linseed,25.32,02/2022
+Linseed,29.55,03/2022
+Linseed,26.41,04/2022
+Linseed,24.02,05/2022
+Linseed,21.09,06/2022
+Linseed,18.57,07/2022
+Linseed,28.21,08/2022
+Linseed,28.6,09/2022
+Linseed,16.3,10/2022
+Linseed,31.98,11/2022
+Linseed,26.9,12/2022
+Linseed,31.03,01/2023
+Linseed,17.32,02/2023
+Linseed,17.2,03/2023
+Linseed,23.29,04/2023
+Linseed,26.55,05/2023
+Linseed,33.02,06/2023
+Linseed,27.56,07/2023
+Linseed,22.82,08/2023
+Linseed,18.9,09/2023
+Linseed,30.18,10/2023
+Linseed,19.21,11/2023
+Linseed,32.18,12/2023
+Linseed,22.61,01/2024
+Linseed,31.99,02/2024
+Linseed,27.43,03/2024
+Linseed,23.35,04/2024
+Linseed,21.44,05/2024
+Linseed,22.33,06/2024
+Linseed,26.17,07/2024
+Linseed,24.42,08/2024
+Linseed,21.06,09/2024
+Linseed,23.21,10/2024
+Linseed,24.43,11/2024
+Linseed,13.39,12/2024
+Linseed,26.32,01/2025
+Linseed,19.13,02/2025
+Linseed,18.27,03/2025
+Linseed,15.6,04/2025
+Linseed,15.06,05/2025
+Linseed,17.26,06/2025
+Linseed,20.49,07/2025
+Linseed,33.8,08/2025
+Niger seed,72.72,01/2015
+Niger seed,74.41,02/2015
+Niger seed,84.08,03/2015
+Niger seed,69.15,04/2015
+Niger seed,62.87,05/2015
+Niger seed,79.31,06/2015
+Niger seed,67.69,07/2015
+Niger seed,70.05,08/2015
+Niger seed,66.27,09/2015
+Niger seed,70.07,10/2015
+Niger seed,67.66,11/2015
+Niger seed,75.24,12/2015
+Niger seed,72.26,01/2016
+Niger seed,68.45,02/2016
+Niger seed,76.84,03/2016
+Niger seed,73.13,04/2016
+Niger seed,62.63,05/2016
+Niger seed,76.46,06/2016
+Niger seed,72.78,07/2016
+Niger seed,78.81,08/2016
+Niger seed,72.48,09/2016
+Niger seed,67.9,10/2016
+Niger seed,70.84,11/2016
+Niger seed,75.88,12/2016
+Niger seed,68.0,01/2017
+Niger seed,69.66,02/2017
+Niger seed,70.75,03/2017
+Niger seed,66.11,04/2017
+Niger seed,68.08,05/2017
+Niger seed,72.72,06/2017
+Niger seed,77.87,07/2017
+Niger seed,73.44,08/2017
+Niger seed,71.63,09/2017
+Niger seed,67.7,10/2017
+Niger seed,77.33,11/2017
+Niger seed,74.03,12/2017
+Niger seed,68.33,01/2018
+Niger seed,76.35,02/2018
+Niger seed,74.66,03/2018
+Niger seed,67.79,04/2018
+Niger seed,71.35,05/2018
+Niger seed,69.39,06/2018
+Niger seed,85.03,07/2018
+Niger seed,74.52,08/2018
+Niger seed,72.79,09/2018
+Niger seed,74.22,10/2018
+Niger seed,78.75,11/2018
+Niger seed,71.44,12/2018
+Niger seed,68.91,01/2019
+Niger seed,76.08,02/2019
+Niger seed,70.98,03/2019
+Niger seed,66.51,04/2019
+Niger seed,65.54,05/2019
+Niger seed,79.51,06/2019
+Niger seed,72.52,07/2019
+Niger seed,68.91,08/2019
+Niger seed,70.69,09/2019
+Niger seed,75.9,10/2019
+Niger seed,70.39,11/2019
+Niger seed,64.61,12/2019
+Niger seed,73.49,01/2020
+Niger seed,77.9,02/2020
+Niger seed,77.57,03/2020
+Niger seed,69.06,04/2020
+Niger seed,78.2,05/2020
+Niger seed,72.92,06/2020
+Niger seed,78.06,07/2020
+Niger seed,74.73,08/2020
+Niger seed,64.25,09/2020
+Niger seed,80.59,10/2020
+Niger seed,72.12,11/2020
+Niger seed,74.74,12/2020
+Niger seed,65.14,01/2021
+Niger seed,74.39,02/2021
+Niger seed,77.37,03/2021
+Niger seed,81.54,04/2021
+Niger seed,78.86,05/2021
+Niger seed,74.63,06/2021
+Niger seed,64.14,07/2021
+Niger seed,72.52,08/2021
+Niger seed,68.9,09/2021
+Niger seed,73.03,10/2021
+Niger seed,65.78,11/2021
+Niger seed,70.81,12/2021
+Niger seed,69.27,01/2022
+Niger seed,69.12,02/2022
+Niger seed,69.17,03/2022
+Niger seed,71.18,04/2022
+Niger seed,73.29,05/2022
+Niger seed,59.37,06/2022
+Niger seed,59.98,07/2022
+Niger seed,70.17,08/2022
+Niger seed,70.87,09/2022
+Niger seed,72.8,10/2022
+Niger seed,68.22,11/2022
+Niger seed,71.91,12/2022
+Niger seed,72.49,01/2023
+Niger seed,68.19,02/2023
+Niger seed,76.93,03/2023
+Niger seed,72.74,04/2023
+Niger seed,74.59,05/2023
+Niger seed,72.2,06/2023
+Niger seed,82.38,07/2023
+Niger seed,74.84,08/2023
+Niger seed,69.42,09/2023
+Niger seed,75.96,10/2023
+Niger seed,63.67,11/2023
+Niger seed,72.46,12/2023
+Niger seed,73.45,01/2024
+Niger seed,72.51,02/2024
+Niger seed,70.19,03/2024
+Niger seed,66.8,04/2024
+Niger seed,67.91,05/2024
+Niger seed,72.37,06/2024
+Niger seed,66.29,07/2024
+Niger seed,80.71,08/2024
+Niger seed,58.65,09/2024
+Niger seed,70.24,10/2024
+Niger seed,72.41,11/2024
+Niger seed,74.4,12/2024
+Niger seed,67.28,01/2025
+Niger seed,77.53,02/2025
+Niger seed,64.89,03/2025
+Niger seed,69.03,04/2025
+Niger seed,74.96,05/2025
+Niger seed,77.06,06/2025
+Niger seed,64.84,07/2025
+Niger seed,85.08,08/2025
+Castor seed,92.88,01/2015
+Castor seed,92.01,02/2015
+Castor seed,99.7,03/2015
+Castor seed,90.66,04/2015
+Castor seed,94.02,05/2015
+Castor seed,94.05,06/2015
+Castor seed,91.29,07/2015
+Castor seed,86.93,08/2015
+Castor seed,95.41,09/2015
+Castor seed,93.49,10/2015
+Castor seed,96.3,11/2015
+Castor seed,91.13,12/2015
+Castor seed,99.9,01/2016
+Castor seed,89.41,02/2016
+Castor seed,102.35,03/2016
+Castor seed,85.06,04/2016
+Castor seed,95.97,05/2016
+Castor seed,96.17,06/2016
+Castor seed,89.82,07/2016
+Castor seed,95.92,08/2016
+Castor seed,100.19,09/2016
+Castor seed,82.71,10/2016
+Castor seed,96.31,11/2016
+Castor seed,81.33,12/2016
+Castor seed,88.97,01/2017
+Castor seed,101.94,02/2017
+Castor seed,90.89,03/2017
+Castor seed,87.93,04/2017
+Castor seed,92.81,05/2017
+Castor seed,104.13,06/2017
+Castor seed,84.64,07/2017
+Castor seed,88.54,08/2017
+Castor seed,101.28,09/2017
+Castor seed,103.08,10/2017
+Castor seed,93.28,11/2017
+Castor seed,87.6,12/2017
+Castor seed,104.27,01/2018
+Castor seed,101.77,02/2018
+Castor seed,97.19,03/2018
+Castor seed,89.73,04/2018
+Castor seed,93.55,05/2018
+Castor seed,92.99,06/2018
+Castor seed,95.45,07/2018
+Castor seed,101.05,08/2018
+Castor seed,98.19,09/2018
+Castor seed,88.41,10/2018
+Castor seed,100.68,11/2018
+Castor seed,95.36,12/2018
+Castor seed,97.23,01/2019
+Castor seed,101.13,02/2019
+Castor seed,88.24,03/2019
+Castor seed,93.62,04/2019
+Castor seed,91.14,05/2019
+Castor seed,85.96,06/2019
+Castor seed,95.53,07/2019
+Castor seed,106.35,08/2019
+Castor seed,84.59,09/2019
+Castor seed,93.63,10/2019
+Castor seed,97.0,11/2019
+Castor seed,94.41,12/2019
+Castor seed,93.23,01/2020
+Castor seed,87.3,02/2020
+Castor seed,94.96,03/2020
+Castor seed,90.01,04/2020
+Castor seed,82.85,05/2020
+Castor seed,99.77,06/2020
+Castor seed,98.59,07/2020
+Castor seed,94.05,08/2020
+Castor seed,94.94,09/2020
+Castor seed,99.17,10/2020
+Castor seed,94.92,11/2020
+Castor seed,98.31,12/2020
+Castor seed,92.31,01/2021
+Castor seed,100.35,02/2021
+Castor seed,95.4,03/2021
+Castor seed,94.77,04/2021
+Castor seed,87.44,05/2021
+Castor seed,95.23,06/2021
+Castor seed,89.63,07/2021
+Castor seed,90.6,08/2021
+Castor seed,89.72,09/2021
+Castor seed,88.46,10/2021
+Castor seed,104.42,11/2021
+Castor seed,100.45,12/2021
+Castor seed,103.4,01/2022
+Castor seed,87.68,02/2022
+Castor seed,94.15,03/2022
+Castor seed,87.33,04/2022
+Castor seed,90.32,05/2022
+Castor seed,89.2,06/2022
+Castor seed,99.99,07/2022
+Castor seed,91.81,08/2022
+Castor seed,99.14,09/2022
+Castor seed,96.82,10/2022
+Castor seed,105.31,11/2022
+Castor seed,86.4,12/2022
+Castor seed,100.09,01/2023
+Castor seed,99.53,02/2023
+Castor seed,88.93,03/2023
+Castor seed,98.83,04/2023
+Castor seed,95.48,05/2023
+Castor seed,92.66,06/2023
+Castor seed,89.68,07/2023
+Castor seed,90.2,08/2023
+Castor seed,104.04,09/2023
+Castor seed,93.8,10/2023
+Castor seed,97.71,11/2023
+Castor seed,89.84,12/2023
+Castor seed,89.9,01/2024
+Castor seed,99.2,02/2024
+Castor seed,87.05,03/2024
+Castor seed,91.72,04/2024
+Castor seed,93.96,05/2024
+Castor seed,94.35,06/2024
+Castor seed,92.9,07/2024
+Castor seed,95.77,08/2024
+Castor seed,97.26,09/2024
+Castor seed,97.47,10/2024
+Castor seed,88.87,11/2024
+Castor seed,92.37,12/2024
+Castor seed,99.77,01/2025
+Castor seed,98.27,02/2025
+Castor seed,86.93,03/2025
+Castor seed,95.55,04/2025
+Castor seed,83.9,05/2025
+Castor seed,94.03,06/2025
+Castor seed,103.28,07/2025
+Castor seed,89.06,08/2025
+Cotton(lint),77.11,01/2015
+Cotton(lint),72.53,02/2015
+Cotton(lint),75.45,03/2015
+Cotton(lint),76.43,04/2015
+Cotton(lint),80.16,05/2015
+Cotton(lint),80.0,06/2015
+Cotton(lint),86.32,07/2015
+Cotton(lint),76.15,08/2015
+Cotton(lint),72.08,09/2015
+Cotton(lint),73.83,10/2015
+Cotton(lint),79.5,11/2015
+Cotton(lint),75.97,12/2015
+Cotton(lint),78.16,01/2016
+Cotton(lint),77.35,02/2016
+Cotton(lint),84.57,03/2016
+Cotton(lint),76.68,04/2016
+Cotton(lint),77.73,05/2016
+Cotton(lint),83.2,06/2016
+Cotton(lint),76.79,07/2016
+Cotton(lint),81.73,08/2016
+Cotton(lint),81.27,09/2016
+Cotton(lint),80.33,10/2016
+Cotton(lint),73.95,11/2016
+Cotton(lint),85.77,12/2016
+Cotton(lint),90.72,01/2017
+Cotton(lint),79.66,02/2017
+Cotton(lint),74.39,03/2017
+Cotton(lint),79.76,04/2017
+Cotton(lint),84.57,05/2017
+Cotton(lint),76.54,06/2017
+Cotton(lint),78.97,07/2017
+Cotton(lint),81.32,08/2017
+Cotton(lint),85.63,09/2017
+Cotton(lint),83.49,10/2017
+Cotton(lint),83.7,11/2017
+Cotton(lint),77.49,12/2017
+Cotton(lint),81.63,01/2018
+Cotton(lint),76.01,02/2018
+Cotton(lint),83.84,03/2018
+Cotton(lint),85.37,04/2018
+Cotton(lint),82.38,05/2018
+Cotton(lint),77.78,06/2018
+Cotton(lint),78.6,07/2018
+Cotton(lint),88.65,08/2018
+Cotton(lint),77.86,09/2018
+Cotton(lint),84.87,10/2018
+Cotton(lint),81.31,11/2018
+Cotton(lint),77.95,12/2018
+Cotton(lint),72.89,01/2019
+Cotton(lint),80.68,02/2019
+Cotton(lint),80.07,03/2019
+Cotton(lint),88.65,04/2019
+Cotton(lint),75.32,05/2019
+Cotton(lint),91.09,06/2019
+Cotton(lint),81.51,07/2019
+Cotton(lint),81.51,08/2019
+Cotton(lint),76.65,09/2019
+Cotton(lint),81.19,10/2019
+Cotton(lint),81.98,11/2019
+Cotton(lint),84.3,12/2019
+Cotton(lint),74.73,01/2020
+Cotton(lint),86.65,02/2020
+Cotton(lint),81.42,03/2020
+Cotton(lint),82.66,04/2020
+Cotton(lint),78.51,05/2020
+Cotton(lint),74.98,06/2020
+Cotton(lint),79.98,07/2020
+Cotton(lint),80.55,08/2020
+Cotton(lint),72.69,09/2020
+Cotton(lint),83.58,10/2020
+Cotton(lint),84.6,11/2020
+Cotton(lint),75.97,12/2020
+Cotton(lint),74.5,01/2021
+Cotton(lint),78.1,02/2021
+Cotton(lint),79.74,03/2021
+Cotton(lint),78.3,04/2021
+Cotton(lint),79.31,05/2021
+Cotton(lint),80.72,06/2021
+Cotton(lint),72.78,07/2021
+Cotton(lint),73.35,08/2021
+Cotton(lint),66.01,09/2021
+Cotton(lint),84.33,10/2021
+Cotton(lint),79.69,11/2021
+Cotton(lint),84.86,12/2021
+Cotton(lint),73.93,01/2022
+Cotton(lint),79.74,02/2022
+Cotton(lint),80.69,03/2022
+Cotton(lint),76.81,04/2022
+Cotton(lint),71.85,05/2022
+Cotton(lint),88.35,06/2022
+Cotton(lint),86.61,07/2022
+Cotton(lint),77.71,08/2022
+Cotton(lint),82.17,09/2022
+Cotton(lint),77.19,10/2022
+Cotton(lint),74.64,11/2022
+Cotton(lint),88.75,12/2022
+Cotton(lint),71.34,01/2023
+Cotton(lint),78.19,02/2023
+Cotton(lint),80.04,03/2023
+Cotton(lint),87.87,04/2023
+Cotton(lint),84.1,05/2023
+Cotton(lint),71.26,06/2023
+Cotton(lint),79.6,07/2023
+Cotton(lint),79.72,08/2023
+Cotton(lint),78.48,09/2023
+Cotton(lint),82.72,10/2023
+Cotton(lint),72.57,11/2023
+Cotton(lint),77.57,12/2023
+Cotton(lint),82.01,01/2024
+Cotton(lint),83.02,02/2024
+Cotton(lint),80.36,03/2024
+Cotton(lint),78.18,04/2024
+Cotton(lint),79.02,05/2024
+Cotton(lint),83.32,06/2024
+Cotton(lint),79.79,07/2024
+Cotton(lint),74.41,08/2024
+Cotton(lint),73.45,09/2024
+Cotton(lint),72.17,10/2024
+Cotton(lint),86.9,11/2024
+Cotton(lint),83.65,12/2024
+Cotton(lint),79.08,01/2025
+Cotton(lint),77.35,02/2025
+Cotton(lint),76.75,03/2025
+Cotton(lint),85.08,04/2025
+Cotton(lint),89.14,05/2025
+Cotton(lint),76.59,06/2025
+Cotton(lint),85.31,07/2025
+Cotton(lint),79.76,08/2025
+Other Rabi pulses,90.67,01/2015
+Other Rabi pulses,89.17,02/2015
+Other Rabi pulses,90.89,03/2015
+Other Rabi pulses,89.23,04/2015
+Other Rabi pulses,85.22,05/2015
+Other Rabi pulses,93.4,06/2015
+Other Rabi pulses,90.41,07/2015
+Other Rabi pulses,89.37,08/2015
+Other Rabi pulses,84.41,09/2015
+Other Rabi pulses,95.8,10/2015
+Other Rabi pulses,92.61,11/2015
+Other Rabi pulses,86.52,12/2015
+Other Rabi pulses,94.29,01/2016
+Other Rabi pulses,86.79,02/2016
+Other Rabi pulses,85.37,03/2016
+Other Rabi pulses,85.48,04/2016
+Other Rabi pulses,80.43,05/2016
+Other Rabi pulses,91.64,06/2016
+Other Rabi pulses,80.13,07/2016
+Other Rabi pulses,83.14,08/2016
+Other Rabi pulses,78.9,09/2016
+Other Rabi pulses,88.85,10/2016
+Other Rabi pulses,88.53,11/2016
+Other Rabi pulses,87.65,12/2016
+Other Rabi pulses,84.07,01/2017
+Other Rabi pulses,83.42,02/2017
+Other Rabi pulses,91.6,03/2017
+Other Rabi pulses,86.53,04/2017
+Other Rabi pulses,90.86,05/2017
+Other Rabi pulses,84.86,06/2017
+Other Rabi pulses,90.19,07/2017
+Other Rabi pulses,95.8,08/2017
+Other Rabi pulses,92.21,09/2017
+Other Rabi pulses,87.22,10/2017
+Other Rabi pulses,90.57,11/2017
+Other Rabi pulses,88.08,12/2017
+Other Rabi pulses,89.32,01/2018
+Other Rabi pulses,87.65,02/2018
+Other Rabi pulses,88.46,03/2018
+Other Rabi pulses,90.34,04/2018
+Other Rabi pulses,84.32,05/2018
+Other Rabi pulses,84.2,06/2018
+Other Rabi pulses,82.34,07/2018
+Other Rabi pulses,81.28,08/2018
+Other Rabi pulses,83.2,09/2018
+Other Rabi pulses,90.08,10/2018
+Other Rabi pulses,84.82,11/2018
+Other Rabi pulses,91.85,12/2018
+Other Rabi pulses,89.46,01/2019
+Other Rabi pulses,79.44,02/2019
+Other Rabi pulses,92.56,03/2019
+Other Rabi pulses,93.34,04/2019
+Other Rabi pulses,84.31,05/2019
+Other Rabi pulses,91.38,06/2019
+Other Rabi pulses,85.0,07/2019
+Other Rabi pulses,89.77,08/2019
+Other Rabi pulses,82.96,09/2019
+Other Rabi pulses,80.32,10/2019
+Other Rabi pulses,87.37,11/2019
+Other Rabi pulses,88.66,12/2019
+Other Rabi pulses,87.29,01/2020
+Other Rabi pulses,83.36,02/2020
+Other Rabi pulses,87.28,03/2020
+Other Rabi pulses,90.63,04/2020
+Other Rabi pulses,89.06,05/2020
+Other Rabi pulses,90.2,06/2020
+Other Rabi pulses,85.93,07/2020
+Other Rabi pulses,95.14,08/2020
+Other Rabi pulses,83.4,09/2020
+Other Rabi pulses,91.72,10/2020
+Other Rabi pulses,95.19,11/2020
+Other Rabi pulses,91.69,12/2020
+Other Rabi pulses,88.27,01/2021
+Other Rabi pulses,86.64,02/2021
+Other Rabi pulses,94.46,03/2021
+Other Rabi pulses,82.17,04/2021
+Other Rabi pulses,84.43,05/2021
+Other Rabi pulses,87.3,06/2021
+Other Rabi pulses,95.47,07/2021
+Other Rabi pulses,91.18,08/2021
+Other Rabi pulses,84.44,09/2021
+Other Rabi pulses,87.73,10/2021
+Other Rabi pulses,86.21,11/2021
+Other Rabi pulses,85.73,12/2021
+Other Rabi pulses,94.18,01/2022
+Other Rabi pulses,82.42,02/2022
+Other Rabi pulses,97.33,03/2022
+Other Rabi pulses,93.42,04/2022
+Other Rabi pulses,94.74,05/2022
+Other Rabi pulses,86.97,06/2022
+Other Rabi pulses,88.53,07/2022
+Other Rabi pulses,82.12,08/2022
+Other Rabi pulses,86.66,09/2022
+Other Rabi pulses,91.75,10/2022
+Other Rabi pulses,95.76,11/2022
+Other Rabi pulses,83.75,12/2022
+Other Rabi pulses,87.46,01/2023
+Other Rabi pulses,88.53,02/2023
+Other Rabi pulses,82.3,03/2023
+Other Rabi pulses,92.24,04/2023
+Other Rabi pulses,85.66,05/2023
+Other Rabi pulses,88.31,06/2023
+Other Rabi pulses,87.02,07/2023
+Other Rabi pulses,85.34,08/2023
+Other Rabi pulses,89.25,09/2023
+Other Rabi pulses,88.2,10/2023
+Other Rabi pulses,87.42,11/2023
+Other Rabi pulses,85.64,12/2023
+Other Rabi pulses,90.88,01/2024
+Other Rabi pulses,97.55,02/2024
+Other Rabi pulses,89.98,03/2024
+Other Rabi pulses,94.26,04/2024
+Other Rabi pulses,82.33,05/2024
+Other Rabi pulses,90.07,06/2024
+Other Rabi pulses,83.8,07/2024
+Other Rabi pulses,81.9,08/2024
+Other Rabi pulses,85.59,09/2024
+Other Rabi pulses,95.24,10/2024
+Other Rabi pulses,94.03,11/2024
+Other Rabi pulses,90.5,12/2024
+Other Rabi pulses,81.62,01/2025
+Other Rabi pulses,88.3,02/2025
+Other Rabi pulses,90.79,03/2025
+Other Rabi pulses,90.16,04/2025
+Other Rabi pulses,80.06,05/2025
+Other Rabi pulses,84.83,06/2025
+Other Rabi pulses,88.96,07/2025
+Other Rabi pulses,91.96,08/2025
+Urad,62.62,01/2015
+Urad,57.86,02/2015
+Urad,66.69,03/2015
+Urad,61.11,04/2015
+Urad,56.42,05/2015
+Urad,64.46,06/2015
+Urad,64.88,07/2015
+Urad,58.03,08/2015
+Urad,65.09,09/2015
+Urad,56.35,10/2015
+Urad,59.92,11/2015
+Urad,61.98,12/2015
+Urad,63.05,01/2016
+Urad,62.23,02/2016
+Urad,57.46,03/2016
+Urad,64.59,04/2016
+Urad,58.5,05/2016
+Urad,56.28,06/2016
+Urad,56.35,07/2016
+Urad,68.82,08/2016
+Urad,55.41,09/2016
+Urad,65.58,10/2016
+Urad,53.45,11/2016
+Urad,61.56,12/2016
+Urad,60.61,01/2017
+Urad,67.23,02/2017
+Urad,55.85,03/2017
+Urad,54.47,04/2017
+Urad,58.54,05/2017
+Urad,67.45,06/2017
+Urad,54.7,07/2017
+Urad,46.18,08/2017
+Urad,59.42,09/2017
+Urad,63.87,10/2017
+Urad,54.05,11/2017
+Urad,63.36,12/2017
+Urad,53.94,01/2018
+Urad,58.39,02/2018
+Urad,62.89,03/2018
+Urad,53.19,04/2018
+Urad,60.03,05/2018
+Urad,65.2,06/2018
+Urad,61.49,07/2018
+Urad,55.52,08/2018
+Urad,66.72,09/2018
+Urad,62.42,10/2018
+Urad,49.82,11/2018
+Urad,63.45,12/2018
+Urad,56.27,01/2019
+Urad,60.11,02/2019
+Urad,64.16,03/2019
+Urad,56.38,04/2019
+Urad,50.9,05/2019
+Urad,66.65,06/2019
+Urad,64.95,07/2019
+Urad,58.69,08/2019
+Urad,63.39,09/2019
+Urad,57.28,10/2019
+Urad,59.61,11/2019
+Urad,58.4,12/2019
+Urad,57.48,01/2020
+Urad,60.92,02/2020
+Urad,53.08,03/2020
+Urad,57.87,04/2020
+Urad,60.7,05/2020
+Urad,68.31,06/2020
+Urad,53.29,07/2020
+Urad,61.73,08/2020
+Urad,62.27,09/2020
+Urad,49.74,10/2020
+Urad,61.18,11/2020
+Urad,63.53,12/2020
+Urad,62.07,01/2021
+Urad,58.7,02/2021
+Urad,60.79,03/2021
+Urad,59.97,04/2021
+Urad,50.68,05/2021
+Urad,60.09,06/2021
+Urad,57.29,07/2021
+Urad,55.6,08/2021
+Urad,71.55,09/2021
+Urad,65.39,10/2021
+Urad,53.37,11/2021
+Urad,60.86,12/2021
+Urad,66.41,01/2022
+Urad,51.64,02/2022
+Urad,59.51,03/2022
+Urad,59.74,04/2022
+Urad,52.75,05/2022
+Urad,61.02,06/2022
+Urad,64.71,07/2022
+Urad,66.66,08/2022
+Urad,57.88,09/2022
+Urad,71.63,10/2022
+Urad,48.83,11/2022
+Urad,60.9,12/2022
+Urad,52.06,01/2023
+Urad,59.57,02/2023
+Urad,56.51,03/2023
+Urad,61.66,04/2023
+Urad,58.49,05/2023
+Urad,54.99,06/2023
+Urad,55.32,07/2023
+Urad,68.79,08/2023
+Urad,61.34,09/2023
+Urad,50.61,10/2023
+Urad,61.88,11/2023
+Urad,58.15,12/2023
+Urad,59.15,01/2024
+Urad,63.22,02/2024
+Urad,65.04,03/2024
+Urad,54.83,04/2024
+Urad,58.98,05/2024
+Urad,56.39,06/2024
+Urad,62.11,07/2024
+Urad,57.96,08/2024
+Urad,59.27,09/2024
+Urad,57.77,10/2024
+Urad,58.59,11/2024
+Urad,67.65,12/2024
+Urad,71.08,01/2025
+Urad,61.01,02/2025
+Urad,58.62,03/2025
+Urad,51.15,04/2025
+Urad,55.32,05/2025
+Urad,58.49,06/2025
+Urad,55.55,07/2025
+Urad,56.07,08/2025
