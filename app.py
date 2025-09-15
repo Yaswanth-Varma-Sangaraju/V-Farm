@@ -1,4 +1,8 @@
 
+
+
+# ... rest of your code ...
+
 import matplotlib
 matplotlib.use('Agg')  # Use non-GUI backend for server-side plotting
 
@@ -10,6 +14,10 @@ import pandas as pd
 from collections import defaultdict
 import joblib
 import pickle
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
 
 # ... rest of your imports and code
 
