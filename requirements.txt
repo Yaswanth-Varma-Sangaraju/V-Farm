@@ -4,3 +4,5 @@ joblib
 pandas
 matplotlib
 scikit-learn
+gunicorn==21.2.0
+
